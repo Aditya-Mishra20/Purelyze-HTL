@@ -6,7 +6,8 @@ import { RouterProvider, createBrowserRouter } from "react-router-dom";
 import Home from "./components/Home.jsx";
 import Dashboard from "./components/Dashboard.jsx";
 import Team from "./components/Team section/Team.jsx";
-import Chatbot from "./components/Chatbot.jsx"
+// import Chatbot from "./components/Chatbot.jsx"
+import Chatbot2 from "./components/Chatbot2.jsx";
 
 const router = createBrowserRouter([
   {
@@ -25,7 +26,7 @@ const router = createBrowserRouter([
         path: "team",
         element: <Team />,
       },
-      { path: "Chatbot", element: <Chatbot/> },
+      { path: "Chatbot", element: <Chatbot2/> },
     ],
   },
 ]);

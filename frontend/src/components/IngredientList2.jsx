@@ -39,7 +39,7 @@ const IngredientList2 = ({ data }) => {
       {hazardousIngredients.length === 0 && (
         <div className="text-center mb-10">
           <h1 className="text-2xl md:text-4xl font-bold text-green-500">
-            Safe
+            Result
           </h1>
         </div>
       )}
