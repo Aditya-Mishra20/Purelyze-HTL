@@ -1,0 +1,1243 @@
+Ingredient_Name,Description,Health_Risk_Score,Is_Allergen
+"Sugar","Sweetener, can be harmful in excess",3,FALSE
+"Salt","Common table salt",2,FALSE
+"Water","Essential for hydration",1,FALSE
+"High Fructose Corn Syrup","Sweetener made from corn",4,FALSE
+"Palm Oil","Vegetable oil from palm fruit",3,FALSE
+"Canola Oil","Vegetable oil from canola seeds",2,FALSE
+"Soy Lecithin","Emulsifier derived from soybeans",2,FALSE
+"Maltodextrin","Food additive, carbohydrate",2,FALSE
+"Monosodium Glutamate (MSG)","Flavor enhancer, used in some foods",3,FALSE
+"Sodium Benzoate","Preservative, commonly used in acidic foods",3,FALSE
+"Citric Acid","Acidulent, often used as a preservative and flavor enhancer",2,FALSE
+"Xanthan Gum","Thickening agent and stabilizer",1,FALSE
+"Guar Gum","Thickening agent derived from guar beans",2,FALSE
+"Sorbitol","Sugar alcohol used as a sweetener",3,FALSE
+"Stevia","Natural sweetener derived from the stevia plant",1,FALSE
+"Sucralose","Artificial sweetener, often sold as Splenda",3,FALSE
+"Aspartame","Artificial sweetener, sold as NutraSweet and Equal",4,FALSE
+"Acesulfame Potassium","Artificial sweetener, often used in combination with other sweeteners",3,FALSE
+"Calcium Carbonate","Calcium supplement and acidity regulator",1,FALSE
+"Potassium Sorbate","Preservative to prevent the growth of molds and yeasts",2,FALSE
+"Lactic Acid","Acidulent, naturally found in dairy products",2,FALSE
+"Ascorbic Acid","Vitamin C, used as an antioxidant and preservative",1,FALSE
+"Artificial Flavor","Synthetic flavoring agent",3,FALSE
+"Natural Flavor","Flavoring agent derived from natural sources",1,FALSE
+"Dextrose","Simple sugar, often used as a sweetener",3,FALSE
+"Glucose Syrup","Sweet syrup derived from starch",3,FALSE
+"Modified Corn Starch","Starch treated to improve its performance in various applications",2,FALSE
+"Carrageenan","Thickening and stabilizing agent derived from seaweed",2,FALSE
+"Cellulose Gel","Thickening agent derived from cellulose",2,FALSE
+"Sodium Phosphate","Food additive, used as a texturizer and emulsifier",2,FALSE
+"Potassium Chloride","Salt substitute, also used as a flavor enhancer",2,FALSE
+"Sodium Erythorbate","Antioxidant, used to prevent discoloration in food",2,FALSE
+"Annatto Extract","Natural food coloring derived from the seeds of the achiote tree",1,FALSE
+"Beet Juice Powder","Natural food coloring derived from beets",1,FALSE
+"Beta-Carotene","Natural pigment found in carrots and other vegetables",1,FALSE
+"Caramel Color","Artificial food coloring made by heating sugar",3,FALSE
+"Paprika Extract","Natural food coloring derived from paprika peppers",1,FALSE
+"Turmeric Extract","Natural food coloring derived from turmeric root",1,FALSE
+"Red 40","Artificial food coloring, also known as Allura Red AC",4,FALSE
+"Yellow 5","Artificial food coloring, also known as Tartrazine",4,FALSE
+"Blue 1","Artificial food coloring, also known as Brilliant Blue FCF",4,FALSE
+"Green 3","Artificial food coloring, also known as Fast Green FCF",4,FALSE
+"BHT (Butylated Hydroxytoluene)","Synthetic antioxidant, used to prevent rancidity in fats and oils",3,FALSE
+"BHA (Butylated Hydroxyanisole)","Synthetic antioxidant, used to prevent rancidity in fats and oils",3,FALSE
+"Tocopherols (Vitamin E)","Natural antioxidant, used to prevent rancidity in fats and oils",1,FALSE
+"Soy Protein Isolate","Protein derived from soybeans, often used as a food additive",2,FALSE
+"Whey Protein Concentrate","Protein derived from whey, often used as a food additive",2,FALSE
+"Casein","Protein derived from milk, used in cheese-making and as a food additive",2,FALSE
+"Lactose","Sugar found in milk, can cause intolerance in some individuals",3,TRUE
+"Nonfat Milk Solids","Dehydrated milk components, used as a food additive",2,FALSE
+"Yeast Extract","Flavoring agent derived from yeast, used in savory foods",2,FALSE
+"Autolyzed Yeast Extract","Flavoring agent derived from yeast, used in savory foods",2,FALSE
+"Hydrolyzed Vegetable Protein","Flavor enhancer derived from vegetable protein",3,FALSE
+"Gelatin","Protein derived from animal collagen, used as a gelling agent",3,TRUE
+"Pectin","Natural gelling agent derived from fruits, used in jams and jellies",1,FALSE
+"Agar","Gelling agent derived from seaweed, used in microbiology and food industry",1,FALSE
+"Propylene Glycol","Humectant and solvent, used in food and pharmaceuticals",3,FALSE
+"Sodium Citrate","Acidulent and emulsifier, used in food and beverages",2,FALSE
+"Calcium Disodium EDTA","Chelating agent, used to prevent discoloration and rancidity in food",2,FALSE
+"Tricalcium Phosphate","Calcium supplement and anti-caking agent",2,FALSE
+"Ferric Orthophosphate","Iron supplement, used to fortify foods",1,FALSE
+"Niacinamide","Vitamin B3, used as a nutrient supplement",1,FALSE
+"Riboflavin","Vitamin B2, used as a nutrient supplement and food coloring",1,FALSE
+"Thiamine Mononitrate","Vitamin B1, used as a nutrient supplement",1,FALSE
+"Pyridoxine Hydrochloride","Vitamin B6, used as a nutrient supplement",1,FALSE
+"Folic Acid","Vitamin B9, used as a nutrient supplement",1,FALSE
+"Cyanocobalamin","Vitamin B12, used as a nutrient supplement",1,FALSE
+"Calcium Pantothenate","Vitamin B5, used as a nutrient supplement",1,FALSE
+"Biotin","Vitamin B7, used as a nutrient supplement",1,FALSE
+"Magnesium Stearate","Flow agent and lubricant, used in supplements and pharmaceuticals",2,FALSE
+"Silicon Dioxide","Anti-caking agent, used in food and pharmaceuticals",2,FALSE
+"Titanium Dioxide","White pigment and opacifier, used in food and cosmetics",3,FALSE
+"Methylcellulose","Thickening agent and emulsifier, used in food and pharmaceuticals",2,FALSE
+"Sodium Carboxymethylcellulose","Thickening agent and stabilizer, used in food and pharmaceuticals",2,FALSE
+"Polysorbate 60","Emulsifier, used in food and cosmetics",2,FALSE
+"Polysorbate 80","Emulsifier, used in food and cosmetics",2,FALSE
+"Edible Vegetable Oil","Edible vegetable oil is a crucial component in cooking and food preparation, derived from various plant sources",3.5,FALSE
+"Soybean Oil","Vegetable oil derived from soybeans",2,FALSE
+"Corn Oil","Vegetable oil derived from corn",2,FALSE
+"Sunflower Oil","Vegetable oil derived from sunflower seeds",2,FALSE
+"Cottonseed Oil","Vegetable oil derived from cotton seeds",3,FALSE
+"Peanut Oil","Vegetable oil derived from peanuts",2,TRUE
+"Hydrogenated Vegetable Oil","Vegetable oil treated with hydrogen to make it solid at room temperature",4,FALSE
+"Partially Hydrogenated Vegetable Oil","Vegetable oil partially treated with hydrogen, containing trans fats",4,FALSE
+"Cocoa Butter","Vegetable fat derived from cocoa beans, used in chocolate",2,FALSE
+"Cocoa Mass","Ground cocoa beans, used in chocolate production",2,FALSE
+"Cocoa Powder","Powdered cocoa solids, used in chocolate production",2,FALSE
+"Malt Extract","Sweet syrup made from malted barley, used in brewing and baking",2,FALSE
+"Barley Malt","Malted barley grains, used in brewing and baking",2,FALSE
+"Corn Syrup Solids","Dehydrated corn syrup, used as a sweetener and food additive",3,FALSE
+"Fructose","Simple sugar found in fruits and honey, used as a sweetener",3,FALSE
+"Lactitol","Sugar alcohol derived from lactose, used as a sweetener",3,TRUE
+"Isomalt","Sugar alcohol used as a sweetener, with a lower glycemic index",3,FALSE
+"Erythritol","Sugar alcohol used as a sweetener, with zero calories",1,FALSE
+"Mannitol","Sugar alcohol used as a sweetener and medication",3,FALSE
+"Hydrogenated Starch Hydrolysates","Sugar alcohol derived from starch, used as a sweetener",3,FALSE
+"Glucono Delta-Lactone","Acidulant and leavening agent, used in baking and dairy",2,FALSE
+"Sodium Acid Pyrophosphate","Leavening agent, used in baking powder and to prevent discoloration",2,FALSE
+"Sodium Metabisulfite","Preservative and antioxidant, used in food and beverages",3,FALSE
+"Calcium Propionate","Preservative, used to prevent mold growth in bread and baked goods",2,FALSE
+"Potassium Metabisulfite","Preservative and antioxidant, used in food and beverages",3,FALSE
+"Ethyl Vanillin","Artificial vanilla flavoring compound",3,FALSE
+"Vanillin","Synthetic vanilla flavoring compound",3,FALSE
+"Maltol","Natural flavor enhancer with a caramel-like taste",2,FALSE
+"Ethyl Maltol","Flavor enhancer with a sweet, caramel-like taste",2,FALSE
+"Sodium Alginate","Thickening and stabilizing agent derived from seaweed",1,FALSE
+"Potassium Alginate","Thickening and stabilizing agent derived from seaweed",1,FALSE
+"Calcium Alginate","Thickening and stabilizing agent derived from seaweed",1,FALSE
+"Gum Arabic","Natural gum derived from the sap of Acacia trees, used as a thickening agent",1,FALSE
+"Tragacanth Gum","Natural gum derived from the sap of Astragalus plants, used as a thickening agent",1,FALSE
+"Locust Bean Gum","Natural gum derived from the seeds of the carob tree, used as a thickening agent",1,FALSE
+"Konjac Flour","Flour made from the root of the konjac plant, used as a thickening agent",1,FALSE
+"Inulin","Type of dietary fiber found in plants, used as a prebiotic and sweetener",1,FALSE
+"Chicory Root Fiber","Dietary fiber derived from the root of the chicory plant, used as a sweetener and prebiotic",1,FALSE
+"Oligofructose","Type of dietary fiber, used as a sweetener and prebiotic",1,FALSE
+"Polydextrose","Synthetic polymer of glucose, used as a sugar substitute and bulking agent",2,FALSE
+"Resistant Dextrin","Type of dietary fiber, used as a prebiotic and thickening agent",1,FALSE
+"Soy Flour","Flour made from ground soybeans",2,FALSE
+"Almond Flour","Flour made from ground almonds",1,FALSE
+"Coconut Flour","Flour made from dried coconut meat",1,FALSE
+"Rice Flour","Flour made from ground rice grains",1,FALSE
+"Potato Starch","Starch extracted from potatoes, used as a thickening agent",1,FALSE
+"Arrowroot Powder","Starch obtained from the rhizomes of the arrowroot plant, used as a thickening agent",1,FALSE
+"Tapioca Starch","Starch extracted from the roots of the cassava plant, used as a thickening agent",1,FALSE
+"Sorghum Syrup","Sweet syrup made from sorghum grains",2,FALSE
+"Brown Rice Syrup","Sweet syrup made from brown rice",2,FALSE
+"Agave Syrup","Sweet syrup derived from the agave plant",3,FALSE
+"Maple Syrup","Sweet syrup made from the sap of maple trees",1,FALSE
+"Molasses","Thick, dark syrup obtained during the sugar refining process",2,FALSE
+"Honey","Sweet viscous substance produced by bees",2,TRUE
+"Invert Sugar","Mixture of glucose and fructose, used as a sweetener",3,FALSE
+"Glucose-Fructose Syrup","Sweet syrup containing glucose and fructose, similar to high fructose corn syrup",3,FALSE
+"Evaporated Cane Juice","Sweetener made from evaporated cane sugar juice",2,FALSE
+"Brown Sugar","Sugar with molasses content, giving it a brown color and caramel flavor",2,FALSE
+"Demerara Sugar","Type of raw cane sugar with large grains and a caramel flavor",2,FALSE
+"Turbinado Sugar","Raw cane sugar, similar to Demerara sugar but with smaller grains",2,FALSE
+"Muscovado Sugar","Unrefined brown sugar with a strong molasses flavor",2,FALSE
+"Palm Sugar","Sugar derived from the sap of various palm trees",2,FALSE
+"Date Sugar","Sugar made from dried dates",2,FALSE
+"Steviol Glycosides","Sweet compounds derived from the stevia plant, used as a natural sweetener",1,FALSE
+"Monk Fruit Extract","Sweetener derived from monk fruit, used as a natural sugar substitute",1,FALSE
+"Thaumatin","Protein derived from the katemfe fruit, used as a natural sweetener",1,FALSE
+"Neotame","Artificial sweetener, similar to aspartame but with a longer shelf life",4,FALSE
+"Alitame","Artificial sweetener, similar to aspartame but with a longer shelf life",4,FALSE
+"Cyclamate","Artificial sweetener, banned in some countries due to safety concerns",4,FALSE
+"Saccharin","Artificial sweetener, used in various foods and beverages",3,FALSE
+"Isomaltulose","Natural sweetener derived from sucrose, with a low glycemic index",1,FALSE
+"Trehalose","Sugar found in mushrooms, yeast, and some insects, used as a sweetener",1,FALSE
+"Cellulose Acetate","Synthetic compound derived from cellulose, used as a film former and plasticizer",3,FALSE
+"Microcrystalline Cellulose","Synthetic compound derived from cellulose, used as a bulking agent and anti-caking agent",2,FALSE
+"Calcium Sulfate","Food additive, used as a firming agent and dough conditioner",2,FALSE
+"Calcium Lactate","Calcium salt of lactic acid, used as a calcium supplement and firming agent",1,FALSE
+"Magnesium Carbonate","Inorganic compound, used as an anti-caking agent and dietary supplement",2,FALSE
+"Sodium Bicarbonate","Chemical compound, commonly known as baking soda",1,FALSE
+"Ammonium Bicarbonate","Leavening agent, used in baked goods",2,FALSE
+"Calcium Chloride","Food additive, used as a firming agent and preservative",2,FALSE
+"Sodium Chloride","Chemical compound, commonly known as table salt",1,FALSE
+"Potassium Chloride","Salt substitute, used as a flavor enhancer",2,FALSE
+"Sodium Lactate","Sodium salt of lactic acid, used as a preservative and flavor enhancer",2,FALSE
+"Sodium Acetate","Sodium salt of acetic acid, used as a flavoring agent and preservative",2,FALSE
+"Potassium Acetate","Potassium salt of acetic acid, used as a food additive and medication",2,FALSE
+"Ammonium Acetate","Ammonium salt of acetic acid, used as a food additive and in chemical synthesis",2,FALSE
+"Magnesium Oxide","Inorganic compound, used as a dietary supplement and antacid",2,FALSE
+"Zinc Oxide","Inorganic compound, used as a dietary supplement and in food fortification",2,FALSE
+"Ferric Sulfate","Iron supplement, used to fortify foods",1,FALSE
+"Ferrous Gluconate","Iron supplement, used to treat iron deficiency",1,FALSE
+"Sodium Selenite","Inorganic compound, used as a dietary supplement",2,FALSE
+"Potassium Iodide","Compound used to prevent iodine deficiency",1,FALSE
+"Potassium Nitrate","Compound used as a preservative in food and fertilizer in agriculture",3,FALSE
+"Sodium Nitrite","Preservative and coloring agent, used in cured meats",4,FALSE
+"Calcium Peroxide","Compound used as a food additive and dough conditioner",2,FALSE
+"Silicon Dioxide","Anti-caking agent, used in food and pharmaceuticals",2,FALSE
+"Talc","Inert mineral used as an anti-caking agent and filler in food",3,FALSE
+"Calcium Carbonate","Calcium supplement and acidity regulator",1,FALSE
+"Calcium Silicate","Anti-caking agent and anti-foaming agent, used in food and cosmetics",2,FALSE
+"Magnesium Silicate","Anti-caking agent and opacifying agent, used in food and cosmetics",2,FALSE
+"Sodium Silicoaluminate","Anti-caking agent, used in food processing",2,FALSE
+"Potassium Silicoaluminate","Anti-caking agent, used in food processing",2,FALSE
+"Bentonite","Clay mineral, used as a clarifying agent in wine and beer production",1,FALSE
+"Kaolin","Clay mineral, used as an anti-caking agent and filler in food",1,FALSE
+"Zein","Protein derived from maize (corn), used as a coating in food and pharmaceuticals",2,FALSE
+"Lecithin","Emulsifier derived from soybeans or egg yolks, used in food production",2,FALSE
+"Choline Bitartrate","Nutrient supplement, used to support liver function and brain health",1,FALSE
+"Phosphoric Acid","Food additive, used as an acidulant and flavoring agent",3,FALSE
+"Sodium Phosphate","Food additive, used as a texturizer and emulsifier",2,FALSE
+"Potassium Phosphate","Food additive, used as a buffering agent and emulsifier",2,FALSE
+"Calcium Phosphate","Food additive, used as a nutrient supplement and anti-caking agent",2,FALSE
+"Ammonium Phosphate","Food additive, used as a nutrient supplement and leavening agent",2,FALSE
+"Magnesium Phosphate","Food additive, used as a nutrient supplement",1,FALSE
+"Sodium Hexametaphosphate","Food additive, used as a sequestrant and emulsifier",2,FALSE
+"Sodium Tripolyphosphate","Food additive, used as a preservative and emulsifier",2,FALSE
+"Sodium Pyrophosphate","Food additive, used as a leavening agent and emulsifier",2,FALSE
+"Sodium Acid Pyrophosphate","Leavening agent, used in baking powder and to prevent discoloration",2,FALSE
+"Tetrasodium Pyrophosphate","Food additive, used as a buffering agent and emulsifier",2,FALSE
+"Monocalcium Phosphate","Leavening agent, used in baking powder",2,FALSE
+"Dicalcium Phosphate","Food additive, used as a nutrient supplement and anti-caking agent",2,FALSE
+"Tricalcium Phosphate","Calcium supplement and anti-caking agent",2,FALSE
+"Ferric Phosphate","Iron supplement, used to fortify foods",1,FALSE
+"Calcium Lactate","Calcium supplement and acidity regulator",1,FALSE
+"Sodium Lactate","Sodium salt of lactic acid, used as a preservative and flavor enhancer",2,FALSE
+"Tartaric Acid","Organic acid, found naturally in many plants, used as an acidulant in food and beverages",2,FALSE
+"Citric Acid","Organic acid, found naturally in citrus fruits, used as an acidulant and flavoring agent",2,FALSE
+"Malic Acid","Organic acid, found naturally in fruits, used as an acidulant and flavoring agent",2,FALSE
+"Fumaric Acid","Organic acid, used as an acidulant and flavoring agent in food and beverages",2,FALSE
+"Succinic Acid","Organic acid, found naturally in some fruits and vegetables, used as an acidulant and flavoring agent",2,FALSE
+"Adipic Acid","Organic acid, used as an acidulant and flavoring agent in food and beverages",3,FALSE
+"Acetic Acid","Organic acid, found naturally in vinegar, used as a preservative and flavoring agent",2,FALSE
+"Lactic Acid","Organic acid, produced during fermentation, used as an acidulant and flavoring agent",2,FALSE
+"Sorbic Acid","Organic acid, used as a preservative in food and beverages",2,FALSE
+"Benzoic Acid","Organic acid, used as a preservative in food and beverages",3,FALSE
+"Propionic Acid","Organic acid, used as a preservative in food and beverages",3,FALSE
+"Butyric Acid","Organic acid, found naturally in butter, used as a flavoring agent",2,FALSE
+"Caproic Acid","Organic acid, found naturally in some animal fats, used as a flavoring agent",2,FALSE
+"Caprylic Acid","Organic acid, found naturally in coconut oil, used as a flavoring agent",2,FALSE
+"Capric Acid","Organic acid, found naturally in coconut oil, used as a flavoring agent",2,FALSE
+"Lauric Acid","Fatty acid, found naturally in coconut oil, used as a flavoring agent",2,FALSE
+"Myristic Acid","Fatty acid, found naturally in some fats and oils, used as a flavoring agent",2,FALSE
+"Palmitic Acid","Fatty acid, found naturally in many animal and vegetable fats, used as a flavoring agent",2,FALSE
+"Stearic Acid","Fatty acid, found naturally in many animal and vegetable fats, used as a flavoring agent",2,FALSE
+"Oleic Acid","Monounsaturated fatty acid, found naturally in olive oil and other fats, used as a flavoring agent",2,FALSE
+"Linoleic Acid","Polyunsaturated fatty acid, essential for human health, found in many vegetable oils",1,FALSE
+"Alpha-Linolenic Acid","Polyunsaturated fatty acid, essential for human health, found in flaxseed, chia seeds, and walnuts",1,FALSE
+"Arachidonic Acid","Polyunsaturated fatty acid, important for brain function, found in animal fats",1,FALSE
+"Eicosapentaenoic Acid (EPA)","Omega-3 fatty acid, found in fatty fish like salmon and mackerel, important for heart health",1,FALSE
+"Docosahexaenoic Acid (DHA)","Omega-3 fatty acid, found in fatty fish like salmon and mackerel, important for brain health",1,FALSE
+"Isopropyl Alcohol","Alcohol compound, used as a solvent and disinfectant",3,FALSE
+"Ethanol","Alcohol compound, commonly known as drinking alcohol, used in beverages and as a solvent",3,FALSE
+"Methanol","Toxic alcohol compound, sometimes used as a solvent and fuel",4,FALSE
+"Butanol","Alcohol compound, used as a solvent and fuel",3,FALSE
+"Propylene Glycol Alginate","Ester of alginic acid, used as a stabilizer and thickener in food and beverages",2,FALSE
+"Sodium Alginate","Thickening and stabilizing agent derived from seaweed",1,FALSE
+"Potassium Alginate","Thickening and stabilizing agent derived from seaweed",1,FALSE
+"Calcium Alginate","Thickening and stabilizing agent derived from seaweed",1,FALSE
+"Magnesium Alginate","Thickening and stabilizing agent derived from seaweed",1,FALSE
+"Gellan Gum","Microbial polysaccharide, used as a gelling agent and stabilizer in food and beverages",1,FALSE
+"Tara Gum","Polysaccharide derived from the seeds of the tara tree, used as a thickener and stabilizer",1,FALSE
+"Karaya Gum","Gum derived from the sap of the karaya tree, used as a thickener and stabilizer in food and pharmaceuticals",1,FALSE
+"Gum Ghatti","Natural gum derived from the sap of the Indian tree Anogeissus latifolia, used as a thickener and stabilizer",1,FALSE
+"Carob Bean Gum","Polysaccharide derived from the seeds of the carob tree, used as a thickener and stabilizer",1,FALSE
+"Mesquite Gum","Natural gum derived from the mesquite tree, used as a thickener and stabilizer",1,FALSE
+"Sodium Caseinate","Protein derived from milk, used as a food additive and emulsifier",2,TRUE
+"Calcium Caseinate","Protein derived from milk, used as a food additive and emulsifier",2,TRUE
+"Potassium Caseinate","Protein derived from milk, used as a food additive and emulsifier",2,TRUE
+"Ammonium Caseinate","Protein derived from milk, used as a food additive and emulsifier",2,TRUE
+"Whey Protein Isolate","Protein derived from whey, used as a dietary supplement and food additive",2,FALSE
+"Whey Protein Hydrolysate","Pre-digested form of whey protein, used as a dietary supplement and food additive",2,FALSE
+"Pea Protein","Protein derived from peas, used as a dietary supplement and food additive",1,FALSE
+"Rice Protein","Protein derived from rice, used as a dietary supplement and food additive",1,FALSE
+"Hemp Protein","Protein derived from hemp seeds, used as a dietary supplement and food additive",1,FALSE
+"Pumpkin Seed Protein","Protein derived from pumpkin seeds, used as a dietary supplement and food additive",1,FALSE
+"Chia Protein","Protein derived from chia seeds, used as a dietary supplement and food additive",1,FALSE
+"Flaxseed Protein","Protein derived from flaxseeds, used as a dietary supplement and food additive",1,FALSE
+"Sunflower Protein","Protein derived from sunflower seeds, used as a dietary supplement and food additive",1,FALSE
+"Rapeseed Protein","Protein derived from rapeseeds, used as a dietary supplement and food additive",1,FALSE
+"Sacha Inchi Protein","Protein derived from sacha inchi seeds, used as a dietary supplement",1,FALSE
+"Tartaric Acid","Organic acid, found naturally in many plants, used as an acidulant in food and beverages",2,FALSE
+"Citric Acid","Organic acid, found naturally in citrus fruits, used as an acidulant and flavoring agent",2,FALSE
+"Malic Acid","Organic acid, found naturally in fruits, used as an acidulant and flavoring agent",2,FALSE
+"Fumaric Acid","Organic acid, used as an acidulant and flavoring agent in food and beverages",2,FALSE
+"Succinic Acid","Organic acid, found naturally in some fruits and vegetables, used as an acidulant and flavoring agent",2,FALSE
+"Adipic Acid","Organic acid, used as an acidulant and flavoring agent in food and beverages",3,FALSE
+"Acetic Acid","Organic acid, found naturally in vinegar, used as a preservative and flavoring agent",2,FALSE
+"Lactic Acid","Organic acid, produced during fermentation, used as an acidulant and flavoring agent",2,FALSE
+"Sorbic Acid","Organic acid, used as a preservative in food and beverages",2,FALSE
+"Benzoic Acid","Organic acid, used as a preservative in food and beverages",3,FALSE
+"Propionic Acid","Organic acid, used as a preservative in food and beverages",3,FALSE
+"Butyric Acid","Organic acid, found naturally in butter, used as a flavoring agent",2,FALSE
+"Caproic Acid","Organic acid, found naturally in some animal fats, used as a flavoring agent",2,FALSE
+"Caprylic Acid","Organic acid, found naturally in coconut oil, used as a flavoring agent",2,FALSE
+"Capric Acid","Organic acid, found naturally in coconut oil, used as a flavoring agent",2,FALSE
+"Lauric Acid","Fatty acid, found naturally in coconut oil, used as a flavoring agent",2,FALSE
+"Myristic Acid","Fatty acid, found naturally in some fats and oils, used as a flavoring agent",2,FALSE
+"Palmitic Acid","Fatty acid, found naturally in many animal and vegetable fats, used as a flavoring agent",2,FALSE
+"Stearic Acid","Fatty acid, found naturally in many animal and vegetable fats, used as a flavoring agent",2,FALSE
+"Oleic Acid","Monounsaturated fatty acid, found naturally in olive oil and other fats, used as a flavoring agent",2,FALSE
+"Linoleic Acid","Polyunsaturated fatty acid, essential for human health, found in many vegetable oils",1,FALSE
+"Alpha-Linolenic Acid","Polyunsaturated fatty acid, essential for human health, found in flaxseed, chia seeds, and walnuts",1,FALSE
+"Arachidonic Acid","Polyunsaturated fatty acid, important for brain function, found in animal fats",1,FALSE
+"Eicosapentaenoic Acid (EPA)","Omega-3 fatty acid, found in fatty fish like salmon and mackerel, important for heart health",1,FALSE
+"Docosahexaenoic Acid (DHA)","Omega-3 fatty acid, found in fatty fish like salmon and mackerel, important for brain health",1,FALSE
+"Isopropyl Alcohol","Alcohol compound, used as a solvent and disinfectant",3,FALSE
+"Ethanol","Alcohol compound, commonly known as drinking alcohol, used in beverages and as a solvent",3,FALSE
+"Methanol","Toxic alcohol compound, sometimes used as a solvent and fuel",4,FALSE
+"Butanol","Alcohol compound, used as a solvent and fuel",3,FALSE
+"Propylene Glycol Alginate","Ester of alginic acid, used as a stabilizer and thickener in food and beverages",2,FALSE
+"Sodium Alginate","Thickening and stabilizing agent derived from seaweed",1,FALSE
+"Potassium Alginate","Thickening and stabilizing agent derived from seaweed",1,FALSE
+"Calcium Alginate","Thickening and stabilizing agent derived from seaweed",1,FALSE
+"Magnesium Alginate","Thickening and stabilizing agent derived from seaweed",1,FALSE
+"Gellan Gum","Microbial polysaccharide, used as a gelling agent and stabilizer in food and beverages",1,FALSE
+"Tara Gum","Polysaccharide derived from the seeds of the tara tree, used as a thickener and stabilizer",1,FALSE
+"Karaya Gum","Gum derived from the sap of the karaya tree, used as a thickener and stabilizer in food and pharmaceuticals",1,FALSE
+"Gum Ghatti","Natural gum derived from the sap of the Indian tree Anogeissus latifolia, used as a thickener and stabilizer",1,FALSE
+"Carob Bean Gum","Polysaccharide derived from the seeds of the carob tree, used as a thickener and stabilizer",1,FALSE
+"Mesquite Gum","Natural gum derived from the mesquite tree, used as a thickener and stabilizer",1,FALSE
+"Sodium Caseinate","Protein derived from milk, used as a food additive and emulsifier",2,TRUE
+"Calcium Caseinate","Protein derived from milk, used as a food additive and emulsifier",2,TRUE
+"Potassium Caseinate","Protein derived from milk, used as a food additive and emulsifier",2,TRUE
+"Ammonium Caseinate","Protein derived from milk, used as a food additive and emulsifier",2,TRUE
+"Whey Protein Isolate","Protein derived from whey, used as a dietary supplement and food additive",2,FALSE
+"Whey Protein Hydrolysate","Pre-digested form of whey protein, used as a dietary supplement and food additive",2,FALSE
+"Pea Protein","Protein derived from peas, used as a dietary supplement and food additive",1,FALSE
+"Rice Protein","Protein derived from rice, used as a dietary supplement and food additive",1,FALSE
+"Hemp Protein","Protein derived from hemp seeds, used as a dietary supplement and food additive",1,FALSE
+"Pumpkin Seed Protein","Protein derived from pumpkin seeds, used as a dietary supplement and food additive",1,FALSE
+"Chia Protein","Protein derived from chia seeds, used as a dietary supplement and food additive",1,FALSE
+"Flaxseed Protein","Protein derived from flaxseeds, used as a dietary supplement and food additive",1,FALSE
+"Sunflower Protein","Protein derived from sunflower seeds, used as a dietary supplement and food additive",1,FALSE
+"Rapeseed Protein","Protein derived from rapeseeds, used as a dietary supplement and food additive",1,FALSE
+
+"Tartaric Acid","Organic acid, found naturally in many plants, used as an acidulant in food and beverages",2,FALSE
+"Citric Acid","Organic acid, found naturally in citrus fruits, used as an acidulant and flavoring agent",2,FALSE
+"Malic Acid","Organic acid, found naturally in fruits, used as an acidulant and flavoring agent",2,FALSE
+"Fumaric Acid","Organic acid, used as an acidulant and flavoring agent in food and beverages",2,FALSE
+"Succinic Acid","Organic acid, found naturally in some fruits and vegetables, used as an acidulant and flavoring agent",2,FALSE
+"Adipic Acid","Organic acid, used as an acidulant and flavoring agent in food and beverages",3,FALSE
+"Acetic Acid","Organic acid, found naturally in vinegar, used as a preservative and flavoring agent",2,FALSE
+"Lactic Acid","Organic acid, produced during fermentation, used as an acidulant and flavoring agent",2,FALSE
+"Sorbic Acid","Organic acid, used as a preservative in food and beverages",2,FALSE
+"Benzoic Acid","Organic acid, used as a preservative in food and beverages",3,FALSE
+"Propionic Acid","Organic acid, used as a preservative in food and beverages",3,FALSE
+"Butyric Acid","Organic acid, found naturally in butter, used as a flavoring agent",2,FALSE
+"Caproic Acid","Organic acid, found naturally in some animal fats, used as a flavoring agent",2,FALSE
+"Caprylic Acid","Organic acid, found naturally in coconut oil, used as a flavoring agent",2,FALSE
+"Capric Acid","Organic acid, found naturally in coconut oil, used as a flavoring agent",2,FALSE
+"Lauric Acid","Fatty acid, found naturally in coconut oil, used as a flavoring agent",2,FALSE
+"Myristic Acid","Fatty acid, found naturally in some fats and oils, used as a flavoring agent",2,FALSE
+"Palmitic Acid","Fatty acid, found naturally in many animal and vegetable fats, used as a flavoring agent",2,FALSE
+"Stearic Acid","Fatty acid, found naturally in many animal and vegetable fats, used as a flavoring agent",2,FALSE
+"Oleic Acid","Monounsaturated fatty acid, found naturally in olive oil and other fats, used as a flavoring agent",2,FALSE
+"Linoleic Acid","Polyunsaturated fatty acid, essential for human health, found in many vegetable oils",1,FALSE
+"Alpha-Linolenic Acid","Polyunsaturated fatty acid, essential for human health, found in flaxseed, chia seeds, and walnuts",1,FALSE
+"Arachidonic Acid","Polyunsaturated fatty acid, important for brain function, found in animal fats",1,FALSE
+"Eicosapentaenoic Acid (EPA)","Omega-3 fatty acid, found in fatty fish like salmon and mackerel, important for heart health",1,FALSE
+"Docosahexaenoic Acid (DHA)","Omega-3 fatty acid, found in fatty fish like salmon and mackerel, important for brain health",1,FALSE
+"Isopropyl Alcohol","Alcohol compound, used as a solvent and disinfectant",3,FALSE
+"Ethanol","Alcohol compound, commonly known as drinking alcohol, used in beverages and as a solvent",3,FALSE
+"Methanol","Toxic alcohol compound, sometimes used as a solvent and fuel",4,FALSE
+"Butanol","Alcohol compound, used as a solvent and fuel",3,FALSE
+"Propylene Glycol Alginate","Ester of alginic acid, used as a stabilizer and thickener in food and beverages",2,FALSE
+"Sodium Alginate","Thickening and stabilizing agent derived from seaweed",1,FALSE
+"Potassium Alginate","Thickening and stabilizing agent derived from seaweed",1,FALSE
+"Calcium Alginate","Thickening and stabilizing agent derived from seaweed",1,FALSE
+"Magnesium Alginate","Thickening and stabilizing agent derived from seaweed",1,FALSE
+"Gellan Gum","Microbial polysaccharide, used as a gelling agent and stabilizer in food and beverages",1,FALSE
+"Tara Gum","Polysaccharide derived from the seeds of the tara tree, used as a thickener and stabilizer",1,FALSE
+"Karaya Gum","Gum derived from the sap of the karaya tree, used as a thickener and stabilizer in food and pharmaceuticals",1,FALSE
+"Gum Ghatti","Natural gum derived from the sap of the Indian tree Anogeissus latifolia, used as a thickener and stabilizer",1,FALSE
+"Carob Bean Gum","Polysaccharide derived from the seeds of the carob tree, used as a thickener and stabilizer",1,FALSE
+"Mesquite Gum","Natural gum derived from the mesquite tree, used as a thickener and stabilizer",1,FALSE
+"Sodium Caseinate","Protein derived from milk, used as a food additive and emulsifier",2,TRUE
+"Calcium Caseinate","Protein derived from milk, used as a food additive and emulsifier",2,TRUE
+"Potassium Caseinate","Protein derived from milk, used as a food additive and emulsifier",2,TRUE
+"Ammonium Caseinate","Protein derived from milk, used as a food additive and emulsifier",2,TRUE
+"Whey Protein Isolate","Protein derived from whey, used as a dietary supplement and food additive",2,FALSE
+"Whey Protein Hydrolysate","Pre-digested form of whey protein, used as a dietary supplement and food additive",2,FALSE
+"Pea Protein","Protein derived from peas, used as a dietary supplement and food additive",1,FALSE
+"Rice Protein","Protein derived from rice, used as a dietary supplement and food additive",1,FALSE
+"Hemp Protein","Protein derived from hemp seeds, used as a dietary supplement and food additive",1,FALSE
+"Pumpkin Seed Protein","Protein derived from pumpkin seeds, used as a dietary supplement and food additive",1,FALSE
+"Chia Protein","Protein derived from chia seeds, used as a dietary supplement and food additive",1,FALSE
+"Flaxseed Protein","Protein derived from flaxseeds, used as a dietary supplement and food additive",1,FALSE
+"Tartaric Acid","Organic acid, found naturally in many plants, used as an acidulant in food and beverages",2,FALSE
+"Citric Acid","Organic acid, found naturally in citrus fruits, used as an acidulant and flavoring agent",2,FALSE
+"Malic Acid","Organic acid, found naturally in fruits, used as an acidulant and flavoring agent",2,FALSE
+"Fumaric Acid","Organic acid, used as an acidulant and flavoring agent in food and beverages",2,FALSE
+"Succinic Acid","Organic acid, found naturally in some fruits and vegetables, used as an acidulant and flavoring agent",2,FALSE
+"Adipic Acid","Organic acid, used as an acidulant and flavoring agent in food and beverages",3,FALSE
+"Acetic Acid","Organic acid, found naturally in vinegar, used as a preservative and flavoring agent",2,FALSE
+"Lactic Acid","Organic acid, produced during fermentation, used as an acidulant and flavoring agent",2,FALSE
+"Sorbic Acid","Organic acid, used as a preservative in food and beverages",2,FALSE
+"Benzoic Acid","Organic acid, used as a preservative in food and beverages",3,FALSE
+"Propionic Acid","Organic acid, used as a preservative in food and beverages",3,FALSE
+"Butyric Acid","Organic acid, found naturally in butter, used as a flavoring agent",2,FALSE
+"Caproic Acid","Organic acid, found naturally in some animal fats, used as a flavoring agent",2,FALSE
+"Caprylic Acid","Organic acid, found naturally in coconut oil, used as a flavoring agent",2,FALSE
+"Capric Acid","Organic acid, found naturally in coconut oil, used as a flavoring agent",2,FALSE
+"Lauric Acid","Fatty acid, found naturally in coconut oil, used as a flavoring agent",2,FALSE
+"Myristic Acid","Fatty acid, found naturally in some fats and oils, used as a flavoring agent",2,FALSE
+"Palmitic Acid","Fatty acid, found naturally in many animal and vegetable fats, used as a flavoring agent",2,FALSE
+"Stearic Acid","Fatty acid, found naturally in many animal and vegetable fats, used as a flavoring agent",2,FALSE
+"Oleic Acid","Monounsaturated fatty acid, found naturally in olive oil and other fats, used as a flavoring agent",2,FALSE
+"Linoleic Acid","Polyunsaturated fatty acid, essential for human health, found in many vegetable oils",1,FALSE
+"Alpha-Linolenic Acid","Polyunsaturated fatty acid, essential for human health, found in flaxseed, chia seeds, and walnuts",1,FALSE
+"Arachidonic Acid","Polyunsaturated fatty acid, important for brain function, found in animal fats",1,FALSE
+"Eicosapentaenoic Acid (EPA)","Omega-3 fatty acid, found in fatty fish like salmon and mackerel, important for heart health",1,FALSE
+"Docosahexaenoic Acid (DHA)","Omega-3 fatty acid, found in fatty fish like salmon and mackerel, important for brain health",1,FALSE
+"Isopropyl Alcohol","Alcohol compound, used as a solvent and disinfectant",3,FALSE
+"Ethanol","Alcohol compound, commonly known as drinking alcohol, used in beverages and as a solvent",3,FALSE
+"Methanol","Toxic alcohol compound, sometimes used as a solvent and fuel",4,FALSE
+"Butanol","Alcohol compound, used as a solvent and fuel",3,FALSE
+"Propylene Glycol Alginate","Ester of alginic acid, used as a stabilizer and thickener in food and beverages",2,FALSE
+"Sodium Alginate","Thickening and stabilizing agent derived from seaweed",1,FALSE
+"Potassium Alginate","Thickening and stabilizing agent derived from seaweed",1,FALSE
+"Calcium Alginate","Thickening and stabilizing agent derived from seaweed",1,FALSE
+"Magnesium Alginate","Thickening and stabilizing agent derived from seaweed",1,FALSE
+"Gellan Gum","Microbial polysaccharide, used as a gelling agent and stabilizer in food and beverages",1,FALSE
+"Tara Gum","Polysaccharide derived from the seeds of the tara tree, used as a thickener and stabilizer",1,FALSE
+"Karaya Gum","Gum derived from the sap of the karaya tree, used as a thickener and stabilizer in food and pharmaceuticals",1,FALSE
+"Gum Ghatti","Natural gum derived from the sap of the Indian tree Anogeissus latifolia, used as a thickener and stabilizer",1,FALSE
+"Carob Bean Gum","Polysaccharide derived from the seeds of the carob tree, used as a thickener and stabilizer",1,FALSE
+"Mesquite Gum","Natural gum derived from the mesquite tree, used as a thickener and stabilizer",1,FALSE
+"Sodium Caseinate","Protein derived from milk, used as a food additive and emulsifier",2,TRUE
+"Calcium Caseinate","Protein derived from milk, used as a food additive and emulsifier",2,TRUE
+"Potassium Caseinate","Protein derived from milk, used as a food additive and emulsifier",2,TRUE
+"Ammonium Caseinate","Protein derived from milk, used as a food additive and emulsifier",2,TRUE
+"Whey Protein Isolate","Protein derived from whey, used as a dietary supplement and food additive",2,FALSE
+"Whey Protein Hydrolysate","Pre-digested form of whey protein, used as a dietary supplement and food additive",2,FALSE
+"Pea Protein","Protein derived from peas, used as a dietary supplement and food additive",1,FALSE
+"Rice Protein","Protein derived from rice, used as a dietary supplement and food additive",1,FALSE
+"Hemp Protein","Protein derived from hemp seeds, used as a dietary supplement and food additive",1,FALSE
+"Pumpkin Seed Protein","Protein derived from pumpkin seeds, used as a dietary supplement and food additive",1,FALSE
+"Chia Protein","Protein derived from chia seeds, used as a dietary supplement and food additive",1,FALSE
+"Tartaric Acid","Organic acid, found naturally in many plants, used as an acidulant in food and beverages",2,FALSE
+"Citric Acid","Organic acid, found naturally in citrus fruits, used as an acidulant and flavoring agent",2,FALSE
+"Malic Acid","Organic acid, found naturally in fruits, used as an acidulant and flavoring agent",2,FALSE
+"Fumaric Acid","Organic acid, used as an acidulant and flavoring agent in food and beverages",2,FALSE
+"Succinic Acid","Organic acid, found naturally in some fruits and vegetables, used as an acidulant and flavoring agent",2,FALSE
+"Adipic Acid","Organic acid, used as an acidulant and flavoring agent in food and beverages",3,FALSE
+"Acetic Acid","Organic acid, found naturally in vinegar, used as a preservative and flavoring agent",2,FALSE
+"Lactic Acid","Organic acid, produced during fermentation, used as an acidulant and flavoring agent",2,FALSE
+"Sorbic Acid","Organic acid, used as a preservative in food and beverages",2,FALSE
+"Benzoic Acid","Organic acid, used as a preservative in food and beverages",3,FALSE
+"Propionic Acid","Organic acid, used as a preservative in food and beverages",3,FALSE
+"Butyric Acid","Organic acid, found naturally in butter, used as a flavoring agent",2,FALSE
+"Caproic Acid","Organic acid, found naturally in some animal fats, used as a flavoring agent",2,FALSE
+"Caprylic Acid","Organic acid, found naturally in coconut oil, used as a flavoring agent",2,FALSE
+"Capric Acid","Organic acid, found naturally in coconut oil, used as a flavoring agent",2,FALSE
+"Lauric Acid","Fatty acid, found naturally in coconut oil, used as a flavoring agent",2,FALSE
+"Myristic Acid","Fatty acid, found naturally in some fats and oils, used as a flavoring agent",2,FALSE
+"Palmitic Acid","Fatty acid, found naturally in many animal and vegetable fats, used as a flavoring agent",2,FALSE
+"Stearic Acid","Fatty acid, found naturally in many animal and vegetable fats, used as a flavoring agent",2,FALSE
+"Oleic Acid","Monounsaturated fatty acid, found naturally in olive oil and other fats, used as a flavoring agent",2,FALSE
+"Linoleic Acid","Polyunsaturated fatty acid, essential for human health, found in many vegetable oils",1,FALSE
+"Alpha-Linolenic Acid","Polyunsaturated fatty acid, essential for human health, found in flaxseed, chia seeds, and walnuts",1,FALSE
+"Arachidonic Acid","Polyunsaturated fatty acid, important for brain function, found in animal fats",1,FALSE
+"Eicosapentaenoic Acid (EPA)","Omega-3 fatty acid, found in fatty fish like salmon and mackerel, important for heart health",1,FALSE
+"Docosahexaenoic Acid (DHA)","Omega-3 fatty acid, found in fatty fish like salmon and mackerel, important for brain health",1,FALSE
+"Isopropyl Alcohol","Alcohol compound, used as a solvent and disinfectant",3,FALSE
+"Ethanol","Alcohol compound, commonly known as drinking alcohol, used in beverages and as a solvent",3,FALSE
+"Methanol","Toxic alcohol compound, sometimes used as a solvent and fuel",4,FALSE
+"Butanol","Alcohol compound, used as a solvent and fuel",3,FALSE
+"Propylene Glycol Alginate","Ester of alginic acid, used as a stabilizer and thickener in food and beverages",2,FALSE
+"Sodium Alginate","Thickening and stabilizing agent derived from seaweed",1,FALSE
+"Potassium Alginate","Thickening and stabilizing agent derived from seaweed",1,FALSE
+"Calcium Alginate","Thickening and stabilizing agent derived from seaweed",1,FALSE
+"Magnesium Alginate","Thickening and stabilizing agent derived from seaweed",1,FALSE
+"Gellan Gum","Microbial polysaccharide, used as a gelling agent and stabilizer in food and beverages",1,FALSE
+"Tara Gum","Polysaccharide derived from the seeds of the tara tree, used as a thickener and stabilizer",1,FALSE
+"Karaya Gum","Gum derived from the sap of the karaya tree, used as a thickener and stabilizer in food and pharmaceuticals",1,FALSE
+"Gum Ghatti","Natural gum derived from the sap of the Indian tree Anogeissus latifolia, used as a thickener and stabilizer",1,FALSE
+"Carob Bean Gum","Polysaccharide derived from the seeds of the carob tree, used as a thickener and stabilizer",1,FALSE
+"Mesquite Gum","Natural gum derived from the mesquite tree, used as a thickener and stabilizer",1,FALSE
+"Sodium Caseinate","Protein derived from milk, used as a food additive and emulsifier",2,TRUE
+"Calcium Caseinate","Protein derived from milk, used as a food additive and emulsifier",2,TRUE
+"Potassium Caseinate","Protein derived from milk, used as a food additive and emulsifier",2,TRUE
+"Ammonium Caseinate","Protein derived from milk, used as a food additive and emulsifier",2,TRUE
+"Whey Protein Isolate","Protein derived from whey, used as a dietary supplement and food additive",2,FALSE
+"Whey Protein Hydrolysate","Pre-digested form of whey protein, used as a dietary supplement and food additive",2,FALSE
+"Pea Protein","Protein derived from peas, used as a dietary supplement and food additive",1,FALSE
+"Rice Protein","Protein derived from rice, used as a dietary supplement and food additive",1,FALSE
+"Hemp Protein","Protein derived from hemp seeds, used as a dietary supplement and food additive",1,FALSE
+"Pumpkin Seed Protein","Protein derived from pumpkin seeds, used as a dietary supplement and food additive",1,FALSE
+"Chia Protein","Protein derived from chia seeds, used as a dietary supplement and food additive",1,FALSE
+"Flaxseed Protein","Protein derived from flaxseeds, used as a dietary supplement and food additive",1,FALSE
+"Sunflower Protein","Protein derived from sunflower seeds, used as a dietary supplement and food additive",1,FALSE
+"Potato Protein","Protein derived from potatoes, used as a dietary supplement and food additive",1,FALSE
+"Collagen Peptides","Hydrolyzed form of collagen, used as a dietary supplement for skin and joint health",1,FALSE
+"Gelatin Hydrolysate","Partially hydrolyzed form of gelatin, used as a dietary supplement for joint health",1,FALSE
+"Fish Collagen","Collagen derived from fish, used as a dietary supplement for skin and joint health",1,FALSE
+"Bovine Collagen","Collagen derived from cows, used as a dietary supplement for skin and joint health",1,FALSE
+"Porcine Collagen","Collagen derived from pigs, used as a dietary supplement for skin and joint health",1,FALSE
+"Chicken Collagen","Collagen derived from chickens, used as a dietary supplement for skin and joint health",1,FALSE
+"Egg White Protein","Protein derived from egg whites, used as a dietary supplement and food additive",2,TRUE
+"Egg Yolk Protein","Protein derived from egg yolks, used as a dietary supplement and food additive",2,TRUE
+"Whole Egg Powder","Powdered form of whole eggs, used as a dietary supplement and food additive",2,TRUE
+"Albumen","Protein component of egg whites, used as a food additive and dietary supplement",2,TRUE
+"Lactoferrin","Protein found in milk, known for its antimicrobial properties, used as a dietary supplement",1,FALSE
+"Lactoperoxidase","Enzyme found in milk, used in food processing and as a dietary supplement",1,FALSE
+"Alpha-Lactalbumin","Protein found in milk, used as a dietary supplement",1,FALSE
+"Beta-Lactoglobulin","Major protein found in whey, used as a dietary supplement and food additive",1,FALSE
+"Ovalbumin","Major protein found in egg whites, used as a dietary supplement and food additive",2,TRUE
+"Ovotransferrin","Protein found in egg whites, known for its iron-binding properties, used as a dietary supplement",2,TRUE
+"Lysozyme","Enzyme found in egg whites and other bodily fluids, used as a preservative and dietary supplement",2,TRUE
+"Avidin","Protein found in egg whites, known for its ability to bind biotin, used as a dietary supplement",2,TRUE
+"Phosvitin","Protein found in egg yolks, known for its high phosphorus content, used as a dietary supplement",2,TRUE
+"Soybean Hulls","Outer covering of soybeans, used as animal feed and in some food products",2,FALSE
+"Soybean Germ","Embryo of the soybean, rich in nutrients, used in food production and as a dietary supplement",1,FALSE
+"Soybean Meal","By-product of soybean processing, used as animal feed and in some food products",2,FALSE
+"Soybean Oilcake","Residue left after soybean oil extraction, used as animal feed",2,FALSE
+"Soybean Fiber","Dietary fiber derived from soybeans, used as a food additive and dietary supplement",1,FALSE
+"Soybean Lecithin","Emulsifier derived from soybeans, used in food production and as a dietary supplement",2,TRUE
+"Sunflower Lecithin","Emulsifier derived from sunflower seeds, used in food production and as a dietary supplement",1,FALSE
+"Canola Lecithin","Emulsifier derived from canola seeds, used in food production and as a dietary supplement",1,FALSE
+"Rapeseed Lecithin","Emulsifier derived from rapeseeds, used in food production and as a dietary supplement",1,FALSE
+"Rice Bran Lecithin","Emulsifier derived from rice bran, used in food production and as a dietary supplement",1,FALSE
+"Wheat Germ Oil","Oil extracted from the germ of wheat kernels, rich in nutrients, used as a dietary supplement",1,FALSE
+"Oat Bran","Outer layer of oat grains, rich in fiber and nutrients, used as a dietary supplement",1,FALSE
+"Barley Bran","Outer layer of barley grains, rich in fiber and nutrients, used as a dietary supplement",1,FALSE
+"Rice Bran","Outer layer of rice grains, rich in nutrients, used as a dietary supplement",1,FALSE
+"Corn Bran","Outer layer of corn kernels, rich in fiber and nutrients, used as a dietary supplement",1,FALSE
+"Sorghum Bran","Outer layer of sorghum grains, rich in fiber and nutrients, used as a dietary supplement",1,FALSE
+"Millet Bran","Outer layer of millet grains, rich in fiber and nutrients, used as a dietary supplement",1,FALSE
+"Quinoa Bran","Outer layer of quinoa grains, rich in fiber and nutrients, used as a dietary supplement",1,FALSE
+"Amaranth Bran","Outer layer of amaranth grains, rich in fiber and nutrients, used as a dietary supplement",1,FALSE
+"Teff Bran","Outer layer of teff grains, rich in fiber and nutrients, used as a dietary supplement",1,FALSE
+"Buckwheat Bran","Outer layer of buckwheat grains, rich in fiber and nutrients, used as a dietary supplement",1,FALSE
+"Rye Bran","Outer layer of rye grains, rich in fiber and nutrients, used as a dietary supplement",1,FALSE
+"Spelt Bran","Outer layer of spelt grains, rich in fiber and nutrients, used as a dietary supplement",1,FALSE
+"Kamut Bran","Outer layer of kamut grains, rich in fiber and nutrients, used as a dietary supplement",1,FALSE
+"Emmer Bran","Outer layer of emmer grains, rich in fiber and nutrients, used as a dietary supplement",1,FALSE
+"Einkorn Bran","Outer layer of einkorn grains, rich in fiber and nutrients, used as a dietary supplement",1,FALSE
+"Farro Bran","Outer layer of farro grains, rich in fiber and nutrients, used as a dietary supplement",1,FALSE
+"Freekeh Bran","Outer layer of freekeh grains, rich in fiber and nutrients, used as a dietary supplement",1,FALSE
+"Triticale Bran","Outer layer of triticale grains, rich in fiber and nutrients, used as a dietary supplement",1,FALSE
+"Sorghum Flour","Flour made from sorghum grains, gluten-free alternative used in baking",1,FALSE
+"Buckwheat Flour","Flour made from buckwheat grains, gluten-free alternative used in baking",1,FALSE
+"Amaranth Flour","Flour made from amaranth grains, gluten-free alternative used in baking",1,FALSE
+"Teff Flour","Flour made from teff grains, gluten-free alternative used in baking",1,FALSE
+"Millet Flour","Flour made from millet grains, gluten-free alternative used in baking",1,FALSE
+"Quinoa Flour","Flour made from quinoa grains, gluten-free alternative used in baking",1,FALSE
+"Almond Meal","Ground almonds, used as a gluten-free flour alternative in baking",1,TRUE
+"Walnut Meal","Ground walnuts, used as a flour alternative in baking",1,TRUE
+"Hazelnut Meal","Ground hazelnuts, used as a flour alternative in baking",1,TRUE
+"Pecan Meal","Ground pecans, used as a flour alternative in baking",1,TRUE
+"Pistachio Meal","Ground pistachios, used as a flour alternative in baking",1,TRUE
+"Cashew Meal","Ground cashews, used as a flour alternative in baking",1,TRUE
+"Macadamia Meal","Ground macadamia nuts, used as a flour alternative in baking",1,TRUE
+"Brazil Nut Meal","Ground Brazil nuts, used as a flour alternative in baking",1,TRUE
+"Pine Nut Meal","Ground pine nuts, used as a flour alternative in baking",1,TRUE
+"Chestnut Meal","Ground chestnuts, used as a flour alternative in baking",1,TRUE
+"Sesame Seed Meal","Ground sesame seeds, used as a flour alternative in baking",1,TRUE
+"Pumpkin Seed Meal","Ground pumpkin seeds, used as a flour alternative in baking",1,TRUE
+"Sunflower Seed Meal","Ground sunflower seeds, used as a flour alternative in baking",1,TRUE
+"Flaxseed Meal","Ground flaxseeds, used as a flour alternative in baking",1,TRUE
+"Chia Seed Meal","Ground chia seeds, used as a flour alternative in baking",1,TRUE
+"Hemp Seed Meal","Ground hemp seeds, used as a flour alternative in baking",1,TRUE
+"Coconut Milk Powder","Dehydrated coconut milk, used as a dairy alternative in cooking and baking",2,FALSE
+"Coconut Cream Powder","Dehydrated coconut cream, used as a dairy alternative in cooking and baking",2,FALSE
+"Coconut Oil Powder","Dehydrated coconut oil, used as a flavoring and fat source in food products",2,FALSE
+"MCT Oil Powder","Medium-chain triglyceride oil powder, used as a dietary supplement and flavoring agent",2,FALSE
+"Palm Kernel Oil","Oil extracted from the kernels of palm fruit, used in cooking and food production",3,FALSE
+"Palm Stearin","Solid fraction of palm oil, used in food production",3,FALSE
+"Palm Olein","Liquid fraction of palm oil, used in food production",3,FALSE
+"Palm Fatty Acid Distillate","By-product of palm oil refining, used in soap and cosmetic production",3,FALSE
+"Cocoa Butter Substitute","Vegetable fat used as a substitute for cocoa butter in chocolate production",3,FALSE
+"Cocoa Butter Equivalent","Vegetable fat used as an equivalent to cocoa butter in chocolate production",3,FALSE
+"Cocoa Butter Replacer","Vegetable fat used as a replacer for cocoa butter in chocolate production",3,FALSE
+"Cocoa Mass Substitute","Vegetable fat used as a substitute for cocoa mass in chocolate production",3,FALSE
+"Cocoa Powder Substitute","Powdered vegetable fat used as a substitute for cocoa powder in baking",3,FALSE
+"Carob Powder","Powder made from dried and ground carob pods, used as a cocoa substitute in baking",1,FALSE
+"Carob Syrup","Syrup made from carob pods, used as a sweetener and flavoring agent",2,FALSE
+"Locust Bean Gum","Thickening and stabilizing agent derived from the seeds of the carob tree",1,FALSE
+"Gum Acacia","Gum derived from the sap of the acacia tree, used as a thickener and stabilizer",1,FALSE
+"Xanthan Gum","Microbial polysaccharide, used as a thickener and stabilizer in food and beverages",1,FALSE
+"Guar Gum","Galactomannan polysaccharide, used as a thickener and stabilizer in food and beverages",1,FALSE
+"Karaya Gum","Gum derived from the sap of the karaya tree, used as a thickener and stabilizer",1,FALSE
+"Tragacanth Gum","Gum derived from the sap of the astragalus plant, used as a thickener and stabilizer",1,FALSE
+"Gum Arabic","Natural gum derived from the sap of the acacia tree, used as a thickener and stabilizer",1,FALSE
+"Agar-Agar","Gelatinous substance derived from seaweed, used as a thickener and gelling agent",1,FALSE
+"Alginic Acid","Polysaccharide derived from seaweed, used as a gelling agent and stabilizer",1,FALSE
+"Sodium Alginate","Thickening and stabilizing agent derived from seaweed",1,FALSE
+"Potassium Alginate","Thickening and stabilizing agent derived from seaweed",1,FALSE
+"Calcium Alginate","Thickening and stabilizing agent derived from seaweed",1,FALSE
+"Ammonium Alginate","Thickening and stabilizing agent derived from seaweed",1,FALSE
+"Magnesium Alginate","Thickening and stabilizing agent derived from seaweed",1,FALSE
+"Propylene Glycol Alginate","Ester of alginic acid, used as a stabilizer and thickener in food and beverages",2,FALSE
+"Gelatin","Protein derived from collagen, used as a gelling agent and thickener in food and pharmaceuticals",2,TRUE
+"Pectin","Polysaccharide found in fruits, used as a gelling agent and thickener in food",1,FALSE
+"Carrageenan","Polysaccharide extracted from seaweed, used as a thickener and stabilizer in food",2,FALSE
+"Furcellaran","Polysaccharide similar to carrageenan, derived from red seaweed, used as a gelling agent and stabilizer in food",2,FALSE
+"Gellan Gum","Microbial polysaccharide, used as a gelling agent and stabilizer in food and beverages",1,FALSE
+"Agarose","Polysaccharide derived from agar, used as a gelling agent in molecular biology and food",1,FALSE
+"Gum Ghatti","Natural gum derived from the sap of the Indian tree Anogeissus latifolia, used as a thickener and stabilizer",1,FALSE
+"Gum Karaya","Gum derived from the sap of the karaya tree, used as a thickener and stabilizer in food and pharmaceuticals",1,FALSE
+"Gum Tragacanth","Gum derived from the sap of the astragalus plant, used as a thickener and stabilizer in food and pharmaceuticals",1,FALSE
+"Guar Gum","Galactomannan polysaccharide, used as a thickener and stabilizer in food and beverages",1,FALSE
+"Locust Bean Gum","Thickening and stabilizing agent derived from the seeds of the carob tree",1,FALSE
+"Tara Gum","Polysaccharide derived from the seeds of the tara tree, used as a thickener and stabilizer",1,FALSE
+"Mesquite Gum","Natural gum derived from the mesquite tree, used as a thickener and stabilizer in food and pharmaceuticals",1,FALSE
+"Acacia Gum","Gum derived from the sap of the acacia tree, used as a thickener and stabilizer in food and pharmaceuticals",1,FALSE
+"Sodium Carboxymethylcellulose","Cellulose derivative, used as a thickener and stabilizer in food and pharmaceuticals",1,FALSE
+"Hydroxypropyl Methylcellulose","Cellulose derivative, used as a thickener, emulsifier, and stabilizer in food",1,FALSE
+"Methylcellulose","Cellulose derivative, used as a thickener and stabilizer in food and pharmaceuticals",1,FALSE
+"Microcrystalline Cellulose","Cellulose derivative, used as a bulking agent, emulsifier, and stabilizer in food",1,FALSE
+"Cellulose Gum","Cellulose derivative, used as a thickener, stabilizer, and emulsifier in food and pharmaceuticals",1,FALSE
+"Ethylcellulose","Cellulose derivative, used as a coating agent, binder, and filler in food and pharmaceuticals",1,FALSE
+"Hydroxyethylcellulose","Cellulose derivative, used as a thickener, binder, and stabilizer in food and cosmetics",1,FALSE
+"Hydroxypropylcellulose","Cellulose derivative, used as a thickener, binder, and stabilizer in food and pharmaceuticals",1,FALSE
+"Carboxymethylcellulose Sodium","Cellulose derivative, used as a thickener, stabilizer, and emulsifier in food",1,FALSE
+"Calcium Carboxymethylcellulose","Cellulose derivative, used as a thickener, stabilizer, and emulsifier in food",1,FALSE
+"Polyvinylpyrrolidone","Synthetic polymer, used as a binder, film-former, and stabilizer in food and pharmaceuticals",2,FALSE
+"Polyvinyl Alcohol","Synthetic polymer, used as a film-former, emulsifier, and thickener in food and pharmaceuticals",2,FALSE
+"Polysorbate 20","Emulsifier derived from sorbitol, used in food, cosmetics, and pharmaceuticals",1,FALSE
+"Polysorbate 40","Emulsifier derived from sorbitol, used in food, cosmetics, and pharmaceuticals",1,FALSE
+"Polysorbate 60","Emulsifier derived from sorbitol, used in food, cosmetics, and pharmaceuticals",1,FALSE
+"Polysorbate 80","Emulsifier derived from sorbitol, used in food, cosmetics, and pharmaceuticals",1,FALSE
+"Sorbitan Monostearate","Emulsifier derived from sorbitol, used in food, cosmetics, and pharmaceuticals",1,FALSE
+"Sorbitan Monolaurate","Emulsifier derived from sorbitol, used in food, cosmetics, and pharmaceuticals",1,FALSE
+"Sorbitan Monooleate","Emulsifier derived from sorbitol, used in food, cosmetics, and pharmaceuticals",1,FALSE
+"Sorbitan Monopalmitate","Emulsifier derived from sorbitol, used in food, cosmetics, and pharmaceuticals",1,FALSE
+"Sorbitan Trioleate","Emulsifier derived from sorbitol, used in food, cosmetics, and pharmaceuticals",1,FALSE
+"Sorbitan Tristearate","Emulsifier derived from sorbitol, used in food, cosmetics, and pharmaceuticals",1,FALSE
+"Sorbitan Sesquioleate","Emulsifier derived from sorbitol, used in food, cosmetics, and pharmaceuticals",1,FALSE
+"Sorbitan Sesquistearate","Emulsifier derived from sorbitol, used in food, cosmetics, and pharmaceuticals",1,FALSE
+"Mannitol","Sugar alcohol, used as a sweetener, bulking agent, and sugar substitute in food",2,FALSE
+"Sorbitol","Sugar alcohol, used as a sweetener, humectant, and sugar substitute in food",2,FALSE
+"Xylitol","Sugar alcohol, used as a sweetener and sugar substitute in food and dental products",2,FALSE
+"Erythritol","Sugar alcohol, used as a sweetener and sugar substitute in food and beverages",1,FALSE
+"Maltitol","Sugar alcohol, used as a sweetener and sugar substitute in food and beverages",2,FALSE
+"Lactitol","Sugar alcohol, used as a sweetener and sugar substitute in food and beverages",2,FALSE
+"Isomalt","Sugar alcohol, used as a sweetener and sugar substitute in food and beverages",2,FALSE
+
+Ingredient_Name,Description,Health_Risk_Score,Is_Allergen
+"Hydrogenated Starch Hydrolysates","Sugar alcohol used as a sweetener and bulking agent in food products",2,FALSE
+"Tagatose","Low-calorie sweetener naturally found in some dairy products, used as a sugar substitute",2,FALSE
+"Trehalose","Disaccharide sugar found in mushrooms, yeast, and some plants, used as a sweetener and stabilizer",2,FALSE
+"Isomaltulose","Natural sweetener derived from sucrose, used as a sugar substitute with a lower glycemic index",2,FALSE
+"Palatinose","Brand name for isomaltulose, a low-glycemic sweetener derived from sucrose",2,FALSE
+"Allulose","Low-calorie sugar substitute found naturally in small amounts in some fruits",1,FALSE
+"Dextrose","Simple sugar derived from corn, used as a sweetener and carbohydrate source",2,FALSE
+"Glucose","Simple sugar, primary source of energy for cells, used as a sweetener and carbohydrate source",2,FALSE
+"Fructose","Simple sugar found in fruits, honey, and some vegetables, used as a sweetener",3,FALSE
+"Sucrose","Common table sugar, made up of glucose and fructose, used as a sweetener",3,FALSE
+"Lactose","Sugar found in milk and dairy products, composed of glucose and galactose",2,TRUE
+"Maltose","Sugar formed from the breakdown of starch, composed of two glucose molecules",2,FALSE
+"Galactose","Simple sugar found in milk and dairy products, used as a component of lactose",2,FALSE
+"Ribose","Simple sugar involved in the synthesis of nucleotides and nucleic acids",1,FALSE
+"Arabinose","Simple sugar found in plant gums and hemicellulose, used in biochemical research",1,FALSE
+"Xylose","Simple sugar found in wood, straw, and corn cobs, used in biochemical research",1,FALSE
+"Mannose","Simple sugar found in plants and some microorganisms, used in biochemical research",1,FALSE
+"Rhamnose","Deoxy sugar found in plants and some bacteria, used in biochemical research",1,FALSE
+"Cellobiose","Disaccharide sugar formed from the hydrolysis of cellulose, composed of two glucose molecules",1,FALSE
+"Melibiose","Disaccharide sugar found in legumes, composed of galactose and glucose",1,FALSE
+"Trehalose","Disaccharide sugar found in mushrooms, yeast, and some plants, used as a sweetener and stabilizer",2,FALSE
+"Melezitose","Trisaccharide sugar found in honeydew, composed of three glucose molecules",1,FALSE
+"Raffinose","Trisaccharide sugar found in beans, cabbage, and other vegetables, composed of galactose, glucose, and fructose",1,FALSE
+"Stachyose","Tetrasaccharide sugar found in beans and other legumes, composed of galactose, glucose, and fructose",1,FALSE
+"Verbascose","Pentasaccharide sugar found in some plants, composed of galactose, glucose, and fructose",1,FALSE
+"Fructooligosaccharides","Short-chain carbohydrates found in fruits, vegetables, and grains, used as prebiotic fibers",1,FALSE
+"Galactooligosaccharides","Short-chain carbohydrates found in dairy products and some legumes, used as prebiotic fibers",1,FALSE
+"Xylooligosaccharides","Short-chain carbohydrates found in wood and plant fibers, used as prebiotic fibers",1,FALSE
+"Isomaltooligosaccharides","Short-chain carbohydrates derived from starch, used as prebiotic fibers and sweeteners",1,FALSE
+"Maltodextrin","Polysaccharide derived from starch, used as a food additive and sweetener",2,FALSE
+"Cyclodextrin","Cyclic oligosaccharide derived from starch, used in food, pharmaceuticals, and cosmetics",2,FALSE
+"Inulin","Polysaccharide found in plants, used as a prebiotic fiber and food additive",1,FALSE
+"Polydextrose","Synthetic polymer of glucose, used as a bulking agent and prebiotic fiber in food products",1,FALSE
+"Lactulose","Synthetic disaccharide derived from lactose, used as a laxative and prebiotic",2,FALSE
+"Cellulose","Polymer of glucose found in plant cell walls, used as a bulking agent and fiber supplement",1,FALSE
+"Hemicellulose","Heterogeneous polysaccharide found in plant cell walls, used as a dietary fiber",1,FALSE
+"Lignin","Complex polymer found in plant cell walls, used as a dietary fiber and in some industrial applications",1,FALSE
+"Pectin","Polysaccharide found in fruits and vegetables, used as a gelling agent and thickener",1,FALSE
+"Agar","Polysaccharide derived from seaweed, used as a gelling agent and thickener in food",1,FALSE
+"Alginate","Polysaccharide derived from seaweed, used as a gelling agent and thickener in food",1,FALSE
+"Carrageenan","Polysaccharide extracted from seaweed, used as a thickener and stabilizer in food",2,FALSE
+"Xanthan Gum","Microbial polysaccharide, used as a thickener and stabilizer in food and beverages",1,FALSE
+"Guar Gum","Galactomannan polysaccharide, used as a thickener and stabilizer in food and beverages",1,FALSE
+"Locust Bean Gum","Thickening and stabilizing agent derived from the seeds of the carob tree",1,FALSE
+"Tara Gum","Polysaccharide derived from the seeds of the tara tree, used as a thickener and stabilizer",1,FALSE
+"Mesquite Gum","Natural gum derived from the mesquite tree, used as a thickener and stabilizer in food and pharmaceuticals",1,FALSE
+"Gum Arabic","Natural gum derived from the sap of the acacia tree, used as a thickener and stabilizer in food and pharmaceuticals",1,FALSE
+"Gum Ghatti","Natural gum derived from the sap of the Indian tree Anogeissus latifolia, used as a thickener and stabilizer",1,FALSE
+"Gum Tragacanth","Gum derived from the sap of the astragalus plant, used as a thickener and stabilizer in food and pharmaceuticals",1,FALSE
+"Karaya Gum","Gum derived from the sap of the karaya tree, used as a thickener and stabilizer in food and pharmaceuticals",1,FALSE
+"Furcellaran","Polysaccharide similar to carrageenan, derived from red seaweed, used as a gelling agent and stabilizer in foodproducts",2,FALSE
+"Gellan Gum","Microbial polysaccharide, used as a gelling agent and stabilizer in food and beverages",1,FALSE
+"Gelatin","Protein derived from collagen, used as a gelling agent in food and pharmaceuticals",2,FALSE
+"Collagen","Structural protein found in connective tissues, used in food and supplements for its health benefits",1,FALSE
+"Chitosan","Polysaccharide derived from chitin, used in dietary supplements and wound dressings",2,FALSE
+"Chitin","Polysaccharide found in the exoskeletons of arthropods and cell walls of fungi, used in dietary supplements and biomedical applications",2,FALSE
+"Casein","Protein found in milk and dairy products, used in food and supplements for its slow-digesting properties",2,TRUE
+"Whey Protein","Protein derived from whey, a byproduct of cheese production, used in supplements and food products",1,FALSE
+"Soy Protein","Protein derived from soybeans, used as a meat substitute and in dietary supplements",1,TRUE
+"Pea Protein","Protein derived from yellow peas, used as a plant-based alternative to whey and soy protein",1,FALSE
+"Rice Protein","Protein derived from rice, used as a plant-based alternative to whey and soy protein",1,FALSE
+"Hemp Protein","Protein derived from hemp seeds, used as a plant-based alternative to whey and soy protein",1,FALSE
+"Pumpkin Seed Protein","Protein derived from pumpkin seeds, used as a plant-based alternative to whey and soy protein",1,FALSE
+"Sunflower Seed Protein","Protein derived from sunflower seeds, used as a plant-based alternative to whey and soy protein",1,FALSE
+"Sacha Inchi Protein","Protein derived from sacha inchi seeds, used as a plant-based alternative to whey and soy protein",1,FALSE
+"Potato Protein","Protein derived from potatoes, used as a plant-based alternative to whey and soy protein",1,FALSE
+"Chia Seed Protein","Protein derived from chia seeds, used as a plant-based alternative to whey and soy protein",1,FALSE
+"Flaxseed Protein","Protein derived from flaxseeds, used as a plant-based alternative to whey and soy protein",1,FALSE
+"Canola Protein","Protein derived from canola seeds, used as a plant-based alternative to whey and soy protein",1,FALSE
+"Rapeseed Protein","Protein derived from rapeseeds, used as a plant-based alternative to whey and soy protein",1,FALSE
+"Sesame Seed Protein","Protein derived from sesame seeds, used as a plant-based alternative to whey and soy protein",1,FALSE
+"Almond Protein","Protein derived from almonds, used as a plant-based alternative to whey and soy protein",1,FALSE
+"Coconut Protein","Protein derived from coconuts, used as a plant-based alternative to whey and soy protein",1,FALSE
+"Egg White Protein","Protein derived from egg whites, used as a supplement and ingredient in food products",2,TRUE
+"Egg Yolk Protein","Protein derived from egg yolks, used as a supplement and ingredient in food products",2,TRUE
+"Whole Egg Protein","Protein derived from whole eggs, used as a supplement and ingredient in food products",2,TRUE
+"Yeast Extract","Concentrated source of amino acids and nucleotides derived from yeast, used as a flavor enhancer",1,FALSE
+"Autolyzed Yeast Extract","Yeast extract produced by breaking down yeast cells, used as a flavor enhancer",1,FALSE
+"Hydrolyzed Vegetable Protein","Vegetable protein broken down into amino acids, used as a flavor enhancer",2,FALSE
+"Hydrolyzed Soy Protein","Soy protein broken down into amino acids, used as a flavor enhancer",2,FALSE
+"Hydrolyzed Wheat Protein","Wheat protein broken down into amino acids, used as a flavor enhancer",2,TRUE
+"Hydrolyzed Corn Protein","Corn protein broken down into amino acids, used as a flavor enhancer",1,FALSE
+"Hydrolyzed Casein","Casein protein broken down into amino acids, used as a flavor enhancer",2,TRUE
+"Hydrolyzed Gelatin","Gelatin broken down into amino acids, used as a flavor enhancer",1,FALSE
+"Hydrolyzed Collagen","Collagen broken down into amino acids, used as a flavor enhancer",1,FALSE
+"Hydrolyzed Keratin","Keratin protein broken down into amino acids, used in hair and skin care products",1,FALSE
+"Sodium Caseinate","Sodium salt of casein, used as a food additive and in some dietary supplements",2,TRUE
+"Calcium Caseinate","Calcium salt of casein, used as a food additive and in some dietary supplements",2,TRUE
+"Potassium Caseinate","Potassium salt of casein, used as a food additive and in some dietary supplements",2,TRUE
+"Ammonium Caseinate","Ammonium salt of casein, used as a food additive and in some dietary supplements",2,TRUE
+"Sodium Lactate","Sodium salt of lactic acid, used as a preservative, flavoring agent, and humectant in food",2,FALSE
+"Potassium Lactate","Potassium salt of lactic acid, used as a preservative and flavoring agent in food",2,FALSE
+"Calcium Lactate","Calcium salt of lactic acid, used as a firming agent and flavor enhancer in food",2,FALSE
+"Magnesium Lactate","Magnesium salt of lactic acid, used as a mineral supplement and food additive",1,FALSE
+"Ferrous Lactate","Iron salt of lactic acid, used as a mineral supplement and food additive",1,FALSE
+"Zinc Lactate","Zinc salt of lactic acid, used as a mineral supplement and food additive",1,FALSE
+"Copper Lactate","Copper salt of lactic acid, used as a mineral supplement and food additive",1,FALSE
+"Manganese Lactate","Manganese salt of lactic acid, used as a mineral supplement and food additive",1,FALSE
+"Sodium Acetate","Sodium salt of acetic acid, used as a flavoring agent, preservative, and buffering agent in food",1,FALSE
+"Potassium Acetate","Potassium salt of acetic acid, used as a flavoring agent, preservative, and buffering agent in food",1,FALSE
+"Calcium Acetate","Calcium salt of acetic acid, used as a food additive and medication",1,FALSE
+"Magnesium Acetate","Magnesium salt of acetic acid, used as a food additive and medication",1,FALSE
+"Ammonium Acetate","Ammonium salt of acetic acid, used as a food additive and in some laboratory applications",1,FALSE
+"Sodium Propionate","Sodiumsalt of propionic acid, used as a preservative in food and bakery products",2,FALSE
+"Potassium Propionate","Potassium salt of propionic acid, used as a preservative in food and bakery products",2,FALSE
+"Calcium Propionate","Calcium salt of propionic acid, used as a preservative in food and bakery products",2,FALSE
+"Ammonium Propionate","Ammonium salt of propionic acid, used as a preservative in food and bakery products",2,FALSE
+"Sodium Sorbate","Sodium salt of sorbic acid, used as a preservative in food and beverages",2,FALSE
+"Potassium Sorbate","Potassium salt of sorbic acid, used as a preservative in food and beverages",2,FALSE
+"Calcium Sorbate","Calcium salt of sorbic acid, used as a preservative in food and beverages",2,FALSE
+"Ammonium Sorbate","Ammonium salt of sorbic acid, used as a preservative in food and beverages",2,FALSE
+"Sodium Benzoate","Sodium salt of benzoic acid, used as a preservative in acidic food and beverages",2,FALSE
+"Potassium Benzoate","Potassium salt of benzoic acid, used as a preservative in acidic food and beverages",2,FALSE
+"Calcium Benzoate","Calcium salt of benzoic acid, used as a preservative in acidic food and beverages",2,FALSE
+"Ammonium Benzoate","Ammonium salt of benzoic acid, used as a preservative in acidic food and beverages",2,FALSE
+"Sodium Metabisulfite","Sodium salt of metabisulfurous acid, used as a preservative and antioxidant in food and beverages",3,FALSE
+"Sodium Metabisulfite","Sodium salt of metabisulfurous acid, used as a preservative and antioxidant in food and beverages",3,FALSE
+"Potassium Metabisulfite","Potassium salt of metabisulfurous acid, used as a preservative and antioxidant in food and beverages",3,FALSE
+"Calcium Metabisulfite","Calcium salt of metabisulfurous acid, used as a preservative and antioxidant in food and beverages",3,FALSE
+"Sodium Sulfite","Sodium salt of sulfurous acid, used as a preservative and antioxidant in food and beverages",3,FALSE
+"Potassium Sulfite","Potassium salt of sulfurous acid, used as a preservative and antioxidant in food and beverages",3,FALSE
+"Calcium Sulfite","Calcium salt of sulfurous acid, used as a preservative and antioxidant in food and beverages",3,FALSE
+"Ammonium Sulfite","Ammonium salt of sulfurous acid, used as a preservative and antioxidant in food and beverages",3,FALSE
+"Sodium Bisulfite","Sodium salt of bisulfurous acid, used as a preservative and antioxidant in food and beverages",3,FALSE
+"Potassium Bisulfite","Potassium salt of bisulfurous acid, used as a preservative and antioxidant in food and beverages",3,FALSE
+"Calcium Bisulfite","Calcium salt of bisulfurous acid, used as a preservative and antioxidant in food and beverages",3,FALSE
+"Ammonium Bisulfite","Ammonium salt of bisulfurous acid, used as a preservative and antioxidant in food and beverages",3,FALSE
+"Sodium Thiosulfate","Sodium salt of thiosulfuric acid, used in photography, water treatment, and as a medication",1,FALSE
+"Potassium Thiosulfate","Potassium salt of thiosulfuric acid, used in photography, water treatment, and as a medication",1,FALSE
+"Calcium Thiosulfate","Calcium salt of thiosulfuric acid, used in photography, water treatment, and as a medication",1,FALSE
+"Ammonium Thiosulfate","Ammonium salt of thiosulfuric acid, used in photography, water treatment, and as a medication",1,FALSE
+"Sodium Bisulfate","Sodium salt of bisulfuric acid, used in metal finishing, water treatment, and as a detergent",2,FALSE
+"Potassium Bisulfate","Potassium salt of bisulfuric acid, used in metal finishing, water treatment, and as a detergent",2,FALSE
+"Calcium Bisulfate","Calcium salt of bisulfuric acid, used in metal finishing, water treatment, and as a detergent",2,FALSE
+"Ammonium Bisulfate","Ammonium salt of bisulfuric acid, used in metal finishing, water treatment, and as a detergent",2,FALSE
+"Sodium Hypochlorite","Sodium salt of hypochlorous acid, used as a disinfectant, bleaching agent, and water treatment chemical",3,FALSE
+"Potassium Hypochlorite","Potassium salt of hypochlorous acid, used as a disinfectant, bleaching agent, and water treatment chemical",3,FALSE
+"Calcium Hypochlorite","Calcium salt of hypochlorous acid, used as a disinfectant, bleaching agent, and water treatment chemical",3,FALSE
+"Ammonium Hypochlorite","Ammonium salt of hypochlorous acid, used as a disinfectant, bleaching agent, and water treatment chemical",3,FALSE
+"Sodium Chlorite","Sodium salt of chlorous acid, used in bleaching, water treatment, and as a disinfectant",3,FALSE
+"Potassium Chlorite","Potassium salt of chlorous acid, used in bleaching, water treatment, and as a disinfectant",3,FALSE
+"Calcium Chlorite","Calcium salt of chlorous acid, used in bleaching, water treatment, and as a disinfectant",3,FALSE
+"Ammonium Chlorite","Ammonium salt of chlorous acid, used in bleaching, water treatment, and as a disinfectant",3,FALSE
+"Sodium Chlorate","Sodium salt of chloric acid, used as a herbicide and in the production of chlorine dioxide",4,FALSE
+"Potassium Chlorate","Potassium salt of chloric acid, used as a herbicide and in the production of chlorine dioxide",4,FALSE
+"Calcium Chlorate","Calcium salt of chloric acid, used as a herbicide and in the production of chlorine dioxide",4,FALSE
+"Ammonium Chlorate","Ammonium salt of chloric acid, used as a herbicide and in the production of chlorine dioxide",4,FALSE
+"Sodium Perchlorate","Sodium salt of perchloric acid, used in rocket fuel, explosives, and fireworks",4,FALSE
+"Potassium Perchlorate","Potassium salt of perchloric acid, used in rocket fuel, explosives, and fireworks",4,FALSE
+"Calcium Perchlorate","Calcium salt of perchloric acid, used in rocket fuel, explosives, and fireworks",4,FALSE
+"Ammonium Perchlorate","Ammonium salt of perchloric acid, used in rocket fuel, explosives, and fireworks",4,FALSE
+"Sodium Bromide","Sodium salt of hydrobromic acid, used in photography and as a flame retardant",2,FALSE
+"Potassium Bromide","Potassium salt of hydrobromic acid, used in photography and as a flame retardant",2,FALSE
+"Calcium Bromide","Calcium salt of hydrobromic acid, used in photography and as a flame retardant",2,FALSE
+"Ammonium Bromide","Ammonium salt of hydrobromic acid, used in photography and as a flame retardant",2,FALSE
+"Sodium Iodide","Sodium salt of hydroiodic acid, used in pharmaceuticals, photography, and as a nutritional supplement",2,FALSE
+"Potassium Iodide","Potassium salt of hydroiodic acid, used in pharmaceuticals, photography, and as a nutritional supplement",2,FALSE
+"Calcium Iodide","Calcium salt of hydroiodic acid, used in pharmaceuticals, photography, and as a nutritional supplement",2,FALSE
+"Ammonium Iodide","Ammonium salt of hydroiodic acid, used in pharmaceuticals, photography, and as a nutritional supplement",2,FALSE
+"Sodium Fluoride","Sodium salt of hydrofluoric acid, used in toothpaste, water fluoridation, and as a pesticide",2,FALSE
+"Potassium Fluoride","Potassium salt of hydrofluoric acid, used in toothpaste, water fluoridation, and as a pesticide",2,FALSE
+"Calcium Fluoride","Calcium salt of hydrofluoric acid, used in toothpaste, water fluoridation, andas a pesticide",2,FALSE
+"Ammonium Fluoride","Ammonium salt of hydrofluoric acid, used in toothpaste, water fluoridation, and as a pesticide",2,FALSE
+"Sodium Nitrate","Sodium salt of nitric acid, used as a preservative, color fixative, and fertilizer",3,FALSE
+"Potassium Nitrate","Potassium salt of nitric acid, used as a preservative, color fixative, and fertilizer",3,FALSE
+"Calcium Nitrate","Calcium salt of nitric acid, used as a fertilizer and in wastewater treatment",3,FALSE
+"Ammonium Nitrate","Ammonium salt of nitric acid, used as a fertilizer, explosive, and in cold packs",3,FALSE
+"Sodium Phosphate","Sodium salt of phosphoric acid, used as a food additive, detergent, and in water treatment",2,FALSE
+"Potassium Phosphate","Potassium salt of phosphoric acid, used as a food additive, fertilizer, and in pharmaceuticals",2,FALSE
+"Calcium Phosphate","Calcium salt of phosphoric acid, used as a food additive, dietary supplement, and in toothpaste",2,FALSE
+"Ammonium Phosphate","Ammonium salt of phosphoric acid, used as a fertilizer, flame retardant, and in yeast nutrients",2,FALSE
+"Magnesium Phosphate","Magnesium salt of phosphoric acid, used as a dietary supplement and in pharmaceuticals",2,FALSE
+"Aluminum Phosphate","Aluminum salt of phosphoric acid, used as a leavening agent in baking and in antacids",2,FALSE
+"Iron Phosphate","Iron salt of phosphoric acid, used as a dietary supplement and in fortification of food products",2,FALSE
+"Zinc Phosphate","Zinc salt of phosphoric acid, used as a corrosion inhibitor and in dental cement",2,FALSE
+"Copper Phosphate","Copper salt of phosphoric acid, used as a pigment in ceramics and glass",2,FALSE
+"Sodium Pyrophosphate","Sodium salt of pyrophosphoric acid, used as a buffering agent and emulsifier in food",2,FALSE
+"Potassium Pyrophosphate","Potassium salt of pyrophosphoric acid, used as a buffering agent in food and in detergents",2,FALSE
+"Calcium Pyrophosphate","Calcium salt of pyrophosphoric acid, used as a dietary supplement and in dental care",2,FALSE
+"Ammonium Pyrophosphate","Ammonium salt of pyrophosphoric acid, used as a leavening agent in baking",2,FALSE
+"Magnesium Pyrophosphate","Magnesium salt of pyrophosphoric acid, used as a dietary supplement and in toothpaste",2,FALSE
+"Aluminum Pyrophosphate","Aluminum salt of pyrophosphoric acid, used in baking powder and in dental cements",2,FALSE
+"Iron Pyrophosphate","Iron salt of pyrophosphoric acid, used as a dietary supplement and in food fortification",2,FALSE
+"Zinc Pyrophosphate","Zinc salt of pyrophosphoric acid, used as a dental cement and in corrosion inhibition",2,FALSE
+"Copper Pyrophosphate","Copper salt of pyrophosphoric acid, used in ceramics and as a pigment",2,FALSE
+"Sodium Triphosphate","Sodium salt of triphosphoric acid, used as a cleaning agent, water softener, and food additive",3,FALSE
+"Potassium Triphosphate","Potassium salt of triphosphoric acid, used as a food additive and emulsifier",3,FALSE
+"Calcium Triphosphate","Calcium salt of triphosphoric acid, used as a dietary supplement and in toothpaste",3,FALSE
+"Ammonium Triphosphate","Ammonium salt of triphosphoric acid, used as a fire retardant and in fertilizers",3,FALSE
+"Magnesium Triphosphate","Magnesium salt of triphosphoric acid, used as a dietary supplement and in pharmaceuticals",3,FALSE
+"Aluminum Triphosphate","Aluminum salt of triphosphoric acid, used as a bonding agent in refractory materials",3,FALSE
+"Iron Triphosphate","Iron salt of triphosphoric acid, used as a dietary supplement and in food fortification",3,FALSE
+"Zinc Triphosphate","Zinc salt of triphosphoric acid, used in corrosion protection and as a pigment",3,FALSE
+"Copper Triphosphate","Copper salt of triphosphoric acid, used in ceramics and as a pigment",3,FALSE
+"Sodium Hexametaphosphate","Sodium salt of hexametaphosphoric acid, used as a sequestrant and emulsifier in food",3,FALSE
+"Potassium Hexametaphosphate","Potassium salt of hexametaphosphoric acid, used as a sequestrant in food",3,FALSE
+"Calcium Hexametaphosphate","Calcium salt of hexametaphosphoric acid, used as a sequestrant in food",3,FALSE
+"Ammonium Hexametaphosphate","Ammonium salt of hexametaphosphoric acid, used as a sequestrant in food",3,FALSE
+"Magnesium Hexametaphosphate","Magnesium salt of hexametaphosphoric acid, used as a sequestrant in food",3,FALSE
+"Aluminum Hexametaphosphate","Aluminum salt of hexametaphosphoric acid, used in water treatment and detergents",3,FALSE
+"Iron Hexametaphosphate","Iron salt of hexametaphosphoric acid, used as a sequestrant in food and water treatment",3,FALSE
+"Zinc Hexametaphosphate","Zinc salt of hexametaphosphoric acid, used as a sequestrant and corrosion inhibitor",3,FALSE
+"Copper Hexametaphosphate","Copper salt of hexametaphosphoric acid, used in water treatment and ceramics",3,FALSE
+"Sodium Tetraphosphate","Sodium salt of tetraphosphoric acid, used as a sequestrant and emulsifier in food",3,FALSE
+"Potassium Tetraphosphate","Potassium salt of tetraphosphoric acid, used as a sequestrant in food",3,FALSE
+"Calcium Tetraphosphate","Calcium salt of tetraphosphoric acid, used as a sequestrant in food",3,FALSE
+"Ammonium Tetraphosphate","Ammonium salt of tetraphosphoric acid, used as a sequestrant in food",3,FALSE
+"Magnesium Tetraphosphate","Magnesium salt of tetraphosphoric acid, used as a sequestrant in food",3,FALSE
+"Aluminum Tetraphosphate","Aluminum salt of tetraphosphoric acid, used in water treatment and detergents",3,FALSE
+"Iron Tetraphosphate","Iron salt of tetraphosphoric acid, used as a sequestrant in food and water treatment",3,FALSE
+"Zinc Tetraphosphate","Zinc salt of tetraphosphoric acid, used as a sequestrant and corrosion inhibitor",3,FALSE
+"Copper Tetraphosphate","Copper salt of tetraphosphoric acid, used in water treatment and ceramics",3,FALSE
+"Sodium Trimetaphosphate","Sodium salt of trimetaphosphoric acid, used as a sequestrant and emulsifier in food",3,FALSE
+"Potassium Trimetaphosphate","Potassium salt of trimetaphosphoric acid, used as a sequestrant in food",3,FALSE
+"Calcium Trimetaphosphate","Calcium salt of trimetaphosphoric acid, used as a sequestrant in food",3,FALSE
+"Ammonium Trimetaphosphate","Ammonium salt of trimetaphosphoric acid, used as a sequestrant in food",3,FALSE
+"Magnesium Trimetaphosphate","Magnesium salt of trimetaphosphoric acid, used as a sequestrant in food",3,FALSE
+"Aluminum Trimetaphosphate","Aluminum salt of trimetaphosphoric acid, used in water treatment and detergents",3,FALSE
+"Iron Trimetaphosphate","Iron salt of trimetaphosphoric acid, used as a sequestrant in food and water treatment",3,FALSE
+"Zinc Trimetaphosphate","Zinc salt of trimetaphosphoric acid, used as a sequestrant and corrosion inhibitor",3,FALSE
+"Copper Trimetaphosphate","Copper salt of trimetaphosphoric acid, used in water treatment and ceramics",3,FALSE
+"Sodium Diacetate","Sodium salt of acetic acid, used as a food preservative and flavor enhancer",2,FALSE
+"Potassium Diacetate","Potassium salt of acetic acid, used as a food preservative and flavor enhancer",2,FALSE
+"Calcium Diacetate","Calcium salt of acetic acid, used as a food preservative and mold inhibitor",2,FALSE
+"Ammonium Diacetate","Ammonium salt of acetic acid, used as a food preservative and acidulant",2,FALSE
+"Magnesium Diacetate","Magnesium salt of acetic acid, used as a food preservative and acidity regulator",2,FALSE
+"Aluminum Diacetate","Aluminum salt of acetic acid, used as a food preservative and acidity regulator",2,FALSE
+"Iron Diacetate","Iron salt of acetic acid, used as a food preservative and color stabilizer",2,FALSE
+"Zinc Diacetate","Zinc salt of acetic acid, used as a food preservative and antimicrobial agent",2,FALSE
+"Copper Diacetate","Copper salt of acetic acid, used as a food preservative and coloring agent",2,FALSE
+"Sodium Lactate","Sodium salt of lactic acid, used as a preservative, flavor enhancer, and humectant",2,FALSE
+"Potassium Lactate","Potassium salt of lactic acid, used as a preservative, flavor enhancer, and humectant",2,FALSE
+"Calcium Lactate","Calcium salt of lactic acid, used as a firming agent, humectant, and calcium supplement",2,FALSE
+"Ammonium Lactate","Ammonium salt of lactic acid, used as a moisturizer in cosmetics and dermatological creams",2,FALSE
+"Magnesium Lactate","Magnesium salt of lactic acid, used as a dietary supplement and in pharmaceuticals",2,FALSE
+"Aluminum Lactate","Aluminum salt of lactic acid, used in antiperspirants and as an astringent in cosmetics",2,FALSE
+"Iron Lactate","Iron salt of lactic acid, used as a dietary supplement and in pharmaceuticals",2,FALSE
+"Zinc Lactate","Zinc salt of lactic acid, used as a dietary supplement and in dental care products",2,FALSE
+"Copper Lactate","Copper salt of lactic acid, used as a dietary supplement and in nutritional formulations",2,FALSE
+"Sodium Acetate","Sodium salt of acetic acid, used as a flavoring agent, buffering agent, and pickling agent",2,FALSE
+"Potassium Acetate","Potassium salt of acetic acid, used as a preservative and flavoring agent in food",2,FALSE
+"Calcium Acetate","Calcium salt of acetic acid, used as a food additive, firming agent, and sequestrant",2,FALSE
+"Ammonium Acetate","Ammonium salt of acetic acid, used in the manufacture of chemicals and as a buffer",2,FALSE
+"Magnesium Acetate","Magnesium salt of acetic acid, used as a dietary supplement and medication",2,FALSE
+"Aluminum Acetate","Aluminum salt of acetic acid, used in dermatological treatments and as an astringent in cosmetics",2,FALSE
+"Iron Acetate","Iron salt of acetic acid, used in the treatment of iron deficiency anemia",2,FALSE
+"Zinc Acetate","Zinc salt of acetic acid, used in the treatment of diaper rash and skin irritation",2,FALSE
+"Copper Acetate","Copper salt of acetic acid, used in the manufacture of dyes, pigments, and fungicides",2,FALSE
+"Sodium Propionate","Sodium salt of propionic acid, used as a preservative in bread and other baked goods",2,FALSE
+"Potassium Propionate","Potassium salt of propionic acid, used as a preservative in food and animal feed",2,FALSE
+"Calcium Propionate","Calcium salt of propionic acid, used as a preservative in bread and bakery products",2,FALSE
+"Ammonium Propionate","Ammonium salt of propionic acid, used as a preservative in food and animal feed",2,FALSE
+"Magnesium Propionate","Magnesium salt of propionic acid, used as a preservative in food and pharmaceuticals",2,FALSE
+"Aluminum Propionate","Aluminum salt of propionic acid, used in the treatment of skin conditions and allergies",2,FALSE
+"Iron Propionate","Iron salt of propionic acid, used as a dietary supplement and in the treatment of anemia",2,FALSE
+"Zinc Propionate","Zinc salt of propionic acid, used as a preservative in food and as a dietary supplement",2,FALSE
+"Copper Propionate","Copper salt of propionic acid, used in the synthesis of pharmaceuticals and agricultural chemicals",2,FALSE
+"Sodium Benzoate","Sodium salt of benzoic acid, used as a preservative in acidic food and beverage products",2,FALSE
+"Potassium Benzoate","Potassium salt of benzoic acid, used as a preservative in acidic food and beverage products",2,FALSE
+"Calcium Benzoate","Calcium salt of benzoic acid, used as a preservative in acidic food and beverage products",2,FALSE
+"Ammonium Benzoate","Ammonium salt of benzoic acid, used as a preservative in acidic food and beverage products",2,FALSE
+"Magnesium Benzoate","Magnesium salt of benzoic acid, used as a preservative in acidic food and beverage products",2,FALSE
+"Magnesium Benzoate","Magnesium salt of benzoic acid, used as a preservative in acidic food and beverage products",2,FALSE
+"Aluminum Benzoate","Aluminum salt of benzoic acid, possibly used as a preservative or additive in certain products",3,FALSE
+"Iron Benzoate","Iron salt of benzoic acid, used in various industrial applications and may be used as a food additive",2,FALSE
+"Zinc Benzoate","Zinc salt of benzoic acid, used as a food additive and preservative in some products",2,FALSE
+"Copper Benzoate","Copper salt of benzoic acid, used in industrial applications and as a food additive in some cases",3,FALSE
+"Sodium Sorbate","Sodium salt of sorbic acid, commonly used as a preservative in food and beverage products",1,FALSE
+"Potassium Sorbate","Potassium salt of sorbic acid, widely used as a preservative in food and cosmetic products",1,FALSE
+"Calcium Sorbate","Calcium salt of sorbic acid, utilized as a preservative in food and personal care products",1,FALSE
+"Ammonium Sorbate","Ammonium salt of sorbic acid, used as a preservative in food and beverage items",2,FALSE
+"Magnesium Sorbate","Magnesium salt of sorbic acid, employed as a preservative in food and cosmetic formulations",2,FALSE
+"Aluminum Sorbate","Aluminum salt of sorbic acid, possibly used as a preservative or additive in certain products",3,FALSE
+"Calcium Thiosulfate","Calcium salt of thiosulfuric acid, used in agriculture as a fertilizer additive and in certain industrial processes",2,FALSE
+"Ammonium Thiosulfate","Ammonium salt of thiosulfuric acid, primarily used in agriculture as a nitrogen fertilizer",2,FALSE
+"Magnesium Thiosulfate","Magnesium salt of thiosulfuric acid, used in agriculture as a source of magnesium and sulfur for plants",2,FALSE
+"Aluminum Thiosulfate","Aluminum salt of thiosulfuric acid, used in some industrial processes and as a chemical reagent",3,FALSE
+"Iron Thiosulfate","Iron salt of thiosulfuric acid, utilized in chemical synthesis and as a reagent in certain applications",2,FALSE
+"Zinc Thiosulfate","Zinc salt of thiosulfuric acid, used in agriculture as a fertilizer additive and in some industrial processes",2,FALSE
+"Copper Thiosulfate","Copper salt of thiosulfuric acid, employed in agriculture as a fungicide and in chemical synthesis",2,FALSE
+"Sodium Bisulfate","Sodium salt of bisulfuric acid, used as a pH adjuster, cleaning agent, and in water treatment processes",2,FALSE
+"Potassium Bisulfate","Potassium salt of bisulfuric acid, utilized in various industrial processes and as a food additive",2,FALSE
+"Calcium Bisulfate","Calcium salt of bisulfuric acid, used in water treatment and as a pH adjuster in certain applications",2,FALSE
+"Ammonium Bisulfate","Ammonium salt of bisulfuric acid, used in agriculture as a nitrogen fertilizer and in chemical synthesis",2,FALSE
+"Magnesium Bisulfate","Magnesium salt of bisulfuric acid, employed in agriculture and industrial processes for various purposes",2,FALSE
+"Aluminum Bisulfate","Aluminum salt of bisulfuric acid, used in water treatment and as a catalyst in various industrial processes",2,FALSE
+"Iron Bisulfate","Iron salt of bisulfuric acid, used in water treatment, textile dyeing, and other industrial applications",2,FALSE
+"Zinc Bisulfate","Zinc salt of bisulfuric acid, employed in water treatment and as a chemical reagent in various industries",2,FALSE
+"Copper Bisulfate","Copper salt of bisulfuric acid, used as a fungicide, herbicide, and pesticide in agriculture",3,FALSE
+"Sodium Hypochlorite","Sodium salt of hypochlorous acid, commonly known as bleach, used as a disinfectant and bleach agent",3,FALSE
+"Potassium Hypochlorite","Potassium salt of hypochlorous acid, used similarly to sodium hypochlorite as a disinfectant and bleach",3,FALSE
+"Calcium Hypochlorite","Calcium salt of hypochlorous acid, utilized as a disinfectant, bleaching agent, and water treatment chemical",3,FALSE
+"Ammonium Hypochlorite","Ammonium salt of hypochlorous acid, used as a disinfectant and bleach agent in certain industrial applications",3,FALSE
+"Magnesium Hypochlorite","Magnesium salt of hypochlorous acid, used in water treatment and as a bleaching agent in some industries",3,FALSE
+"Aluminum Hypochlorite","Aluminum salt of hypochlorous acid, used in water treatment and as a disinfectant in certain applications",3,FALSE
+"Iron Hypochlorite","Iron salt of hypochlorous acid, utilized in water treatment and as a bleaching agent in textile and paper industries",3,FALSE
+"Zinc Hypochlorite","Zinc salt of hypochlorous acid, used in water treatment and as a disinfectant in various industrial applications",3,FALSE
+"Copper Hypochlorite","Copper salt of hypochlorous acid, employed as a disinfectant and algaecide in water treatment",3,FALSE\
+"Sodium Chlorite","Sodium salt of chlorous acid, used as a disinfectant, bleaching agent, and in water purification processes",3,FALSE
+"Potassium Chlorite","Potassium salt of chlorous acid, used in water treatment and as a bleaching agent in some industries",3,FALSE
+"Calcium Chlorite","Calcium salt of chlorous acid, utilized in water treatment and as a disinfectant in certain applications",3,FALSE
+"Ammonium Chlorite","Ammonium salt of chlorous acid, used in some industrial processes and as a disinfectant",3,FALSE
+"Magnesium Chlorite","Magnesium salt of chlorous acid, employed in water treatment and as a bleaching agent in certain industries",3,FALSE
+"Aluminum Chlorite","Aluminum salt of chlorous acid, used in water treatment and as a disinfectant in specific applications",3,FALSE
+"Iron Chlorite","Iron salt of chlorous acid, utilized in water treatment and as a disinfectant in certain industrial processes",3,FALSE
+"Zinc Chlorite","Zinc salt of chlorous acid, used in water treatment and as a disinfectant in various applications",3,FALSE
+"Copper Chlorite","Copper salt of chlorous acid, employed in water treatment and as a disinfectant in specific circumstances",3,FALSE
+"Sodium Chlorate","Sodium salt of chloric acid, used in the manufacture of chlorine dioxide and in some herbicides",3,FALSE
+"Potassium Chlorate","Potassium salt of chloric acid, used in the production of matches, fireworks, and as an oxidizing agent",3,FALSE
+"Calcium Chlorate","Calcium salt of chloric acid, used in pyrotechnics, explosives, and as an oxidizing agent",3,FALSE
+"Ammonium Chlorate","Ammonium salt of chloric acid, utilized in the manufacture of explosives and in some laboratory processes",3,FALSE
+"Magnesium Chlorate","Magnesium salt of chloric acid, used in pyrotechnics and in some industrial applications as an oxidizing agent",3,FALSE
+"Aluminum Chlorate","Aluminum salt of chloric acid, used in the manufacture of fireworks, explosives, and as an oxidizing agent",3,FALSE
+"Iron Chlorate","Iron salt of chloric acid, used in the manufacture of fireworks, explosives, and in some laboratory processes",3,FALSE
+"Zinc Chlorate","Zinc salt of chloric acid, used in the manufacture of matches, explosives, and as an oxidizing agent",3,FALSE
+"Copper Chlorate","Copper salt of chloric acid, used in the manufacture of matches, explosives, and as an oxidizing agent",3,FALSE
+"Sodium Perchlorate","Sodium salt of perchloric acid, used as an oxidizing agent, in pyrotechnics, and in rocket fuel",3,FALSE
+"Potassium Perchlorate","Potassium salt of perchloric acid, used in fireworks, explosives, and as an oxidizing agent",3,FALSE
+"Calcium Perchlorate","Calcium salt of perchloric acid, used in fireworks, explosives, and in some laboratory processes",3,FALSE
+"Ammonium Perchlorate","Ammonium salt of perchloric acid, used primarily as an oxidizing agent in rocket fuel and explosives",3,FALSE
+"Magnesium Perchlorate","Magnesium salt of perchloric acid, used in pyrotechnics, fireworks, and as a laboratory reagent",3,FALSE
+"Aluminum Perchlorate","Aluminum salt of perchloric acid, used in pyrotechnics, fireworks, and as an oxidizing agent",3,FALSE
+"Iron Perchlorate","Iron salt of perchloric acid, used in pyrotechnics, fireworks, and as an oxidizing agent in laboratory processes",3,FALSE
+"Zinc Perchlorate","Zinc salt of perchloric acid, used in pyrotechnics, fireworks, and as an oxidizing agent",3,FALSE
+"Copper Perchlorate","Copper salt of perchloric acid, used in pyrotechnics, fireworks, and as an oxidizing agent",3,FALSE
+"Sodium Bromide","Sodium salt of hydrobromic acid, used in pharmaceuticals, photography, and as a disinfectant",2,FALSE
+"Potassium Bromide","Potassium salt of hydrobromic acid, used in pharmaceuticals and as a chemical reagent",2,FALSE
+"Calcium Bromide","Calcium salt of hydrobromic acid, used in drilling fluids for oil and gas extraction",2,FALSE
+"Ammonium Bromide","Ammonium salt of hydrobromic acid, used in photography, pharmaceuticals, and as a flame retardant",2,FALSE
+"Iron Bromide","Iron salt of hydrobromic acid, used in chemical synthesis and as a catalyst in various reactions",2,FALSE
+"Zinc Bromide","Zinc salt of hydrobromic acid, employed in chemical synthesis, oil and gas extraction, and as a flame retardant",2,FALSE
+"Copper Bromide","Copper salt of hydrobromic acid, used in organic synthesis, as a catalyst, and in photography",2,FALSE
+"Sodium Iodide","Sodium salt of hydriodic acid, used in pharmaceuticals, iodized salt, and as a nutritional supplement",1,FALSE
+"Potassium Iodide","Potassium salt of hydriodic acid, used in pharmaceuticals, iodized salt, and as a source of iodine",1,FALSE
+"Calcium Iodide","Calcium salt of hydriodic acid, used in pharmaceuticals, dietary supplements, and as a source of iodine",1,FALSE
+"Ammonium Iodide","Ammonium salt of hydriodic acid, used in photography, as a chemical reagent, and in pharmaceuticals",2,FALSE
+"Magnesium Iodide","Magnesium salt of hydriodic acid, used in pharmaceuticals and as a source of iodine in dietary supplements",1,FALSE
+"Aluminum Iodide","Aluminum salt of hydriodic acid, used in organic synthesis and as a catalyst in certain reactions",2,FALSE
+"Iron Iodide","Iron salt of hydriodic acid, used in chemical synthesis, as a reagent, and in pharmaceuticals",2,FALSE
+"Zinc Iodide","Zinc salt of hydriodic acid, used in chemical synthesis, as a dietary supplement, and in pharmaceuticals",1,FALSE
+"Copper Iodide","Copper salt of hydriodic acid, used in organic synthesis, as a catalyst, and in some pharmaceuticals",2,FALSE
+"Sodium Fluoride","Sodium salt of hydrofluoric acid, used in dental products, water fluoridation, and as a chemical reagent",2,FALSE
+"Potassium Fluoride","Potassium salt of hydrofluoric acid, used in chemical synthesis, as a flux in metal processing, and as a preservative",2,FALSE
+"Calcium Fluoride","Calcium salt of hydrofluoric acid, used in optical applications, ceramics, and as a mineral supplement",1,FALSE
+"Ammonium Fluoride","Ammonium salt of hydrofluoric acid, used in chemical synthesis, metal surface treatment, and as a preservative",2,FALSE
+"Magnesium Fluoride","Magnesium salt of hydrofluoric acid, used in optical coatings, ceramics, and as a flux in metal processing",1,FALSE
+"Aluminum Fluoride","Aluminum salt of hydrofluoric acid, used in aluminum production, ceramics, and as a pesticide",3,FALSE
+"Iron Fluoride","Iron salt of hydrofluoric acid, used in chemical synthesis, as a catalyst, and in some pharmaceuticals",2,FALSE
+"Zinc Fluoride","Zinc salt of hydrofluoric acid, used in dental products, water fluoridation, and as a chemical reagent",2,FALSE
+"Copper Fluoride","Copper salt of hydrofluoric acid, used in chemical synthesis, as a catalyst, and in some dental products",2,FALSE
+"Sodium Nitrate","Sodium salt of nitric acid, used in fertilizers, food preservation, and as a chemical precursor",2,FALSE
+"Potassium Nitrate","Potassium salt of nitric acid, used in fertilizers, fireworks, and in food preservation",2,FALSE
+"Calcium Nitrate","Calcium salt of nitric acid, used in fertilizers, concrete admixtures, and in wastewater treatment",2,FALSE
+"Ammonium Nitrate","Ammonium salt of nitric acid, used in fertilizers, explosives, and as a component in cold packs",3,FALSE
+"Magnesium Nitrate","Magnesium salt of nitric acid, used in fireworks, pyrotechnics, and as a catalyst in chemical reactions",2,FALSE
+"Aluminum Nitrate","Aluminum salt of nitric acid, used in chemical synthesis, as a catalyst, and in some industrial processes",2,FALSE
+"Iron Nitrate","Iron salt of nitric acid, used in chemical synthesis, as a catalyst, and in some laboratory applications",2,FALSE
+"Zinc Nitrate","Zinc salt of nitric acid, used in chemical synthesis, as a catalyst, and in some industrial processes",2,FALSE
+"Copper Nitrate","Copper salt of nitric acid, used in chemical synthesis, as a catalyst, and in some industrial applications",2,FALSE
+"Sodium Phosphate","Sodium salt of phosphoric acid, used as a food additive, detergent builder, and in water treatment",2,FALSE
+"Potassium Phosphate","Potassium salt of phosphoric acid, used as a food additive, fertilizer, and in pharmaceuticals",2,FALSE
+"Calcium Phosphate","Calcium salt of phosphoric acid, used as a food additive, dietary supplement, and in pharmaceuticals",2,FALSE
+"Ammonium Phosphate","Ammonium salt of phosphoric acid, used as a fertilizer, fire retardant, and in yeast nutrients",3,FALSE
+"Magnesium Phosphate","Magnesium salt of phosphoric acid, used as a dietary supplement, food additive, and in pharmaceuticals",2,FALSE
+"Aluminum Phosphate","Aluminum salt of phosphoric acid, used as a food additive, in dental products, and in some medications",2,FALSE
+"Iron Phosphate","Iron salt of phosphoric acid, used as a dietary supplement, food additive, and in some pharmaceuticals",2,FALSE
+"Zinc Phosphate","Zinc salt of phosphoric acid, used as a corrosion inhibitor, pigment, and in dental cements",2,FALSE
+"Copper Phosphate","Copper salt of phosphoric acid, used as a fungicide, algaecide, and in some ceramic glazes",2,FALSE
+"Sodium Pyrophosphate","Sodium salt of pyrophosphoric acid, used as a food additive, buffering agent, and in detergents",2,FALSE
+"Potassium Pyrophosphate","Potassium salt of pyrophosphoric acid, used as a buffering agent, emulsifier, and in food processing",2,FALSE
+"Potassium Pyrophosphate","Potassium salt of pyrophosphoric acid, used as a buffering agent, emulsifier, and in food processing",2,FALSE
+"Calcium Pyrophosphate","Calcium salt of pyrophosphoric acid, used in dental products, as a food additive, and in pharmaceuticals",2,FALSE
+"Ammonium Pyrophosphate","Ammonium salt of pyrophosphoric acid, used as a fertilizer, in food processing, and as a corrosion inhibitor",3,FALSE
+"Magnesium Pyrophosphate","Magnesium salt of pyrophosphoric acid, used as a dietary supplement and in pharmaceuticals",2,FALSE
+"Aluminum Pyrophosphate","Aluminum salt of pyrophosphoric acid, used as a food additive, in dental products, and in pharmaceuticals",2,FALSE
+"Iron Pyrophosphate","Iron salt of pyrophosphoric acid, used as a dietary supplement and in pharmaceuticals",2,FALSE
+"Zinc Pyrophosphate","Zinc salt of pyrophosphoric acid, used as a dietary supplement and in dental products",2,FALSE
+"Copper Pyrophosphate","Copper salt of pyrophosphoric acid, used in ceramic glazes, as a pigment, and in dental materials",2,FALSE
+"Sodium Triphosphate","Sodium salt of triphosphoric acid, used as a cleaning agent, water softener, and in food processing",3,FALSE
+"Potassium Triphosphate","Potassium salt of triphosphoric acid, used as a sequestrant, emulsifier, and in food processing",3,FALSE
+"Calcium Triphosphate","Calcium salt of triphosphoric acid, used as a dietary supplement, food additive, and in dental products",2,FALSE
+"Ammonium Triphosphate","Ammonium salt of triphosphoric acid, used as a fertilizer, fire retardant, and in some industrial applications",3,FALSE
+"Magnesium Triphosphate","Magnesium salt of triphosphoric acid, used as a dietary supplement and in some pharmaceuticals",2,FALSE
+"Aluminum Triphosphate","Aluminum salt of triphosphoric acid, used in ceramics, as a flame retardant, and in dental materials",3,FALSE
+"Iron Triphosphate","Iron salt of triphosphoric acid, used in dietary supplements and in some pharmaceutical formulations",2,FALSE
+"Zinc Triphosphate","Zinc salt of triphosphoric acid, used in dental products, as a corrosion inhibitor, and in some medications",2,FALSE
+"Copper Triphosphate","Copper salt of triphosphoric acid, used in pigments, ceramic glazes, and as a fungicide",2,FALSE
+"Sodium Hexametaphosphate","Sodium salt of hexametaphosphoric acid, used as a sequestrant, emulsifier, and in water treatment",3,FALSE
+"Potassium Hexametaphosphate","Potassium salt of hexametaphosphoric acid, used as a sequestrant, emulsifier, and in food processing",3,FALSE
+"Calcium Hexametaphosphate","Calcium salt of hexametaphosphoric acid, used as a sequestrant, emulsifier, and in water treatment",3,FALSE
+"Ammonium Hexametaphosphate","Ammonium salt of hexametaphosphoric acid, used as a sequestrant, emulsifier, and in water treatment",3,FALSE
+"Magnesium Hexametaphosphate","Magnesium salt of hexametaphosphoric acid, used as a sequestrant, emulsifier, and in water treatment",3,FALSE
+"Aluminum Hexametaphosphate","Aluminum salt of hexametaphosphoric acid, used as a sequestrant, emulsifier, and in water treatment",3,FALSE
+"Iron Hexametaphosphate","Iron salt of hexametaphosphoric acid, used as a sequestrant, emulsifier, and in water treatment",3,FALSE
+"Zinc Hexametaphosphate","Zinc salt of hexametaphosphoric acid, used as a sequestrant, emulsifier, and in water treatment",3,FALSE
+"Copper Hexametaphosphate","Copper salt of hexametaphosphoric acid, used as a sequestrant, emulsifier, and in water treatment",3,FALSE
+"Sodium Tetraphosphate","Sodium salt of tetraphosphoric acid, used as a sequestrant, emulsifier, and in water treatment",3,FALSE
+"Potassium Tetraphosphate","Potassium salt of tetraphosphoric acid, used as a sequestrant, emulsifier, and in food processing",3,FALSE
+"Calcium Tetraphosphate","Calcium salt of tetraphosphoric acid, used as a sequestrant, emulsifier, and in water treatment",3,FALSE
+"Ammonium Tetraphosphate","Ammonium salt of tetraphosphoric acid, used as a sequestrant, emulsifier, and in water treatment",3,FALSE
+"Magnesium Tetraphosphate","Magnesium salt of tetraphosphoric acid, used as a sequestrant, emulsifier, and in food processing",3,FALSE
+"Aluminum Tetraphosphate","Aluminum salt of tetraphosphoric acid, used as a sequestrant, emulsifier, and in food processing",3,FALSE
+"Iron Tetraphosphate","Iron salt of tetraphosphoric acid, used as a sequestrant, emulsifier, and in food processing",3,FALSE
+"Zinc Tetraphosphate","Zinc salt of tetraphosphoric acid, used as a sequestrant, emulsifier, and in food processing",3,FALSE
+"Copper Tetraphosphate","Copper salt of tetraphosphoric acid, used as a sequestrant, emulsifier, and in food processing",3,FALSE
+"Sodium Trimetaphosphate","Sodium salt of trimetaphosphoric acid, used as a sequestrant, emulsifier, and in food processing",3,FALSE
+"Potassium Trimetaphosphate","Potassium salt of trimetaphosphoric acid, used as a sequestrant, emulsifier, and in food processing",3,FALSE
+"Calcium Trimetaphosphate","Calcium salt of trimetaphosphoric acid, used as a sequestrant, emulsifier, and in food processing",3,FALSE
+"Ammonium Trimetaphosphate","Ammonium salt of trimetaphosphoric acid, used as a sequestrant, emulsifier, and in food processing",3,FALSE
+"Magnesium Trimetaphosphate","Magnesium salt of trimetaphosphoric acid, used as a sequestrant, emulsifier, and in food processing",3,FALSE
+"Aluminum Trimetaphosphate","Aluminum salt of trimetaphosphoric acid, used as a sequestrant, emulsifier, and in food processing",3,FALSE
+"Iron Trimetaphosphate","Iron salt of trimetaphosphoric acid, used as a sequestrant, emulsifier, and in food processing",3,FALSE
+"Zinc Trimetaphosphate","Zinc salt of trimetaphosphoric acid, used as a sequestrant, emulsifier, and in food processing",3,FALSE
+"Copper Trimetaphosphate","Copper salt of trimetaphosphoric acid, used as a sequestrant, emulsifier, and in food processing",3,FALSE
+"Sodium Diacetate","Sodium salt of acetic acid, used as a preservative, acidulant, and flavoring agent",2,FALSE
+"Potassium Diacetate","Potassium salt of acetic acid, used as a preservative, acidulant, and flavoring agent",2,FALSE
+"Calcium Diacetate","Calcium salt of acetic acid, used as a preservative, acidulant, and flavoring agent",2,FALSE
+"Ammonium Diacetate","Ammonium salt of acetic acid, used as a preservative, acidulant, and flavoring agent",2,FALSE
+"Magnesium Diacetate","Magnesium salt of acetic acid, used as a preservative, acidulant, and flavoring agent",2,FALSE
+"Aluminum Diacetate","Aluminum salt of acetic acid, used as a preservative, acidulant, and flavoring agent",2,FALSE
+"Iron Diacetate","Iron salt of acetic acid, used as a preservative, acidulant, and flavoring agent",2,FALSE
+"Zinc Diacetate","Zinc salt of acetic acid, used as a preservative, acidulant, and flavoring agent",2,FALSE
+"Copper Diacetate","Copper salt of acetic acid, used as a preservative, acidulant, and flavoring agent",2,FALSE
+"Sodium Lactate","Sodium salt of lactic acid, used as a preservative, flavoring agent, and humectant in food and cosmetics",2,FALSE
+"Potassium Lactate","Potassium salt of lactic acid, used as a preservative, flavoring agent, and humectant in food and cosmetics",2,FALSE
+"Calcium Lactate","Calcium salt of lactic acid, used as a firming agent, flavoring agent, and in pharmaceuticals",2,FALSE
+"Ammonium Lactate","Ammonium salt of lactic acid, used as a humectant, buffering agent, and in skin care products",2,FALSE
+"Magnesium Lactate","Magnesium salt of lactic acid, used as a mineral supplement, flavoring agent, and in pharmaceuticals",2,FALSE
+"Aluminum Lactate","Aluminum salt of lactic acid, used as a firming agent, flavoring agent, and in cosmetics",2,FALSE
+"Iron Lactate","Iron salt of lactic acid, used as a dietary supplement, flavoring agent, and in pharmaceuticals",2,FALSE
+"Zinc Lactate","Zinc salt of lactic acid, used as a dietary supplement, flavoring agent, and in pharmaceuticals",2,FALSE
+"Copper Lactate","Copper salt of lactic acid, used as a dietary supplement, flavoring agent, and in pharmaceuticals",2,FALSE
+"Sodium Acetate","Sodium salt of acetic acid, used in food industry as a buffer, neutralizer, and seasoning agent",2,FALSE
+"Potassium Acetate","Potassium salt of acetic acid, used as a food additive, buffering agent, and in pharmaceuticals",2,FALSE
+"Calcium Acetate","Calcium salt of acetic acid, used in food industry as a preservative, acidifier, and sequestrant",2,FALSE
+"Ammonium Acetate","Ammonium salt of acetic acid, used in food industry as a pH regulator, buffering agent, and in baking",2,FALSE
+"Magnesium Acetate","Magnesium salt of acetic acid, used in food industry as a texturizer, stabilizer, and preservative",2,FALSE
+"Aluminum Acetate","Aluminum salt of acetic acid, used in food industry as a preservative, acidifier, and flavor enhancer",2,FALSE
+"Iron Acetate","Iron salt of acetic acid, used in food industry as a colorant, flavor enhancer, and in pharmaceuticals",2,FALSE
+"Zinc Acetate","Zinc salt of acetic acid, used in food industry as a dietary supplement, flavor enhancer, and in pharmaceuticals",2,FALSE
+"Copper Acetate","Copper salt of acetic acid, used in food industry as a colorant, preservative, and in textile industry",2,FALSE
+"Sodium Propionate","Sodium salt of propionic acid, used as a preservative in bakery products and other foods",2,FALSE
+"Potassium Propionate","Potassium salt of propionic acid, used as a food preservative, mold inhibitor, and in animal feed",2,FALSE
+"Calcium Propionate","Calcium salt of propionic acid, used as a food preservative in bakery products and other foods",2,FALSE
+"Ammonium Propionate","Ammonium salt of propionic acid, used as a food preservative, mold inhibitor, and in animal feed",2,FALSE
+"Magnesium Propionate","Magnesium salt of propionic acid, used as a food preservative, mold inhibitor, and in animal feed",2,FALSE
+"Aluminum Propionate","Aluminum salt of propionic acid, used as a food preservative and mold inhibitor",2,FALSE
+"Iron Propionate","Iron salt of propionic acid, used as a food preservative, mold inhibitor, and in animal feed",2,FALSE
+"Zinc Propionate","Zinc salt of propionic acid, used as a food preservative, mold inhibitor, and in animal feed",2,FALSE
+"Copper Propionate","Copper salt of propionic acid, used as a food preservative, mold inhibitor, and in animal feed",2,FALSE
+"Sodium Benzoate","Sodium salt of benzoic acid, used as a preservative in food and beverages",2,FALSE
+"Potassium Benzoate","Potassium salt of benzoic acid, used as a preservative in food and beverages",2,FALSE
+"Calcium Benzoate","Calcium salt of benzoic acid, used as a preservative in food and beverages",2,FALSE
+"Ammonium Benzoate","Ammonium salt of benzoic acid, used as a preservative in food and beverages",2,FALSE
+"Magnesium Benzoate","Magnesium salt of benzoic acid, used as a preservative in acidic food and beverage products",2,FALSE
+"Aluminum Benzoate","Aluminum salt of benzoic acid, used as a preservative in some food and beverage products",2,FALSE
+"Iron Benzoate","Iron salt of benzoic acid, used as a preservative in some food and beverage products",2,FALSE
+"Zinc Benzoate","Zinc salt of benzoic acid, used as a preservative in some food and beverage products",2,FALSE
+"Copper Benzoate","Copper salt of benzoic acid, used as a preservative in some food and beverage products",2,FALSE
+"Sodium Sorbate","Sodium salt of sorbic acid, used as a preservative in food and beverages",2,FALSE
+"Potassium Sorbate","Potassium salt of sorbic acid, used as a preservative in food and beverages",2,FALSE
+"Calcium Sorbate","Calcium salt of sorbic acid, used as a preservative in food and beverages",2,FALSE
+"Ammonium Sorbate","Ammonium salt of sorbic acid, used as a preservative in food and beverages",2,FALSE
+"Magnesium Sorbate","Magnesium salt of sorbic acid, used as a preservative in food and beverages",2,FALSE
+"Aluminum Sorbate","Aluminum salt of sorbic acid, used as a preservative in food and beverages",2,FALSE
+"Iron Sorbate","Iron salt of sorbic acid, used as a preservative in food and beverages",2,FALSE
+"Zinc Sorbate","Zinc salt of sorbic acid, used as a preservative in food and beverages",2,FALSE
+"Copper Sorbate","Copper salt of sorbic acid, used as a preservative in food and beverages",2,FALSE
+"Sodium Metabisulfite","Sodium salt of metabisulfurous acid, used as a preservative and antioxidant in food and beverages",3,FALSE
+"Potassium Metabisulfite","Potassium salt of metabisulfurous acid, used as a preservative and antioxidant in food and beverages",3,FALSE
+"Calcium Metabisulfite","Calcium salt of metabisulfurous acid, used as a preservative and antioxidant in food and beverages",3,FALSE
+"Ammonium Metabisulfite","Ammonium salt of metabisulfurous acid, used as a preservative and antioxidant in food and beverages",3,FALSE
+"Magnesium Metabisulfite","Magnesium salt of metabisulfurous acid, used as a preservative and antioxidant in food and beverages",3,FALSE
+"Aluminum Metabisulfite","Aluminum salt of metabisulfurous acid, used as a preservative and antioxidant in food and beverages",3,FALSE
+"Iron Metabisulfite","Iron salt of metabisulfurous acid, used as a preservative and antioxidant in food and beverages",3,FALSE
+"Zinc Metabisulfite","Zinc salt of metabisulfurous acid, used as a preservative and antioxidant in food and beverages",3,FALSE
+"Copper Metabisulfite","Copper salt of metabisulfurous acid, used as a preservative and antioxidant in food and beverages",3,FALSE
+"Sodium Sulfite","Sodium salt of sulfurous acid, used as a preservative, antioxidant, and bleaching agent in food and beverages",3,FALSE
+"Potassium Sulfite","Potassium salt of sulfurous acid, used as a preservative, antioxidant, and bleaching agent in food and beverages",3,FALSE
+"Calcium Sulfite","Calcium salt of sulfurous acid, used as a preservative, antioxidant, and bleaching agent in food and beverages",2,FALSE
+"Ammonium Sulfite","Ammonium salt of sulfurous acid, used as a preservative, antioxidant, and bleaching agent in food and beverages",2,FALSE
+"Magnesium Sulfite","Magnesium salt of sulfurous acid, used as a preservative, antioxidant, and bleaching agent in food and beverages",2,FALSE
+"Aluminum Sulfite","Aluminum salt of sulfurous acid, used as a preservative, antioxidant, and bleaching agent in food and beverages",2,FALSE
+"Iron Sulfite","Iron salt of sulfurous acid, used as a preservative, antioxidant, and bleaching agent in food and beverages",2,FALSE
+"Zinc Sulfite","Zinc salt of sulfurous acid, used as a preservative, antioxidant, and bleaching agent in food and beverages",2,FALSE
+"Copper Sulfite","Copper salt of sulfurous acid, used as a preservative, antioxidant, and bleaching agent in food and beverages",2,FALSE
+"Sodium Bisulfite","Sodium salt of bisulfurous acid, used as a preservative, antioxidant, and bleaching agent in food and beverages",3,FALSE
+"Potassium Bisulfite","Potassium salt of bisulfurous acid, used as a preservative, antioxidant, and bleaching agent in food and beverages",3,FALSE
+"Calcium Bisulfite","Calcium salt of bisulfurous acid, used as a preservative, antioxidant, and bleaching agent in food and beverages",3,FALSE
+"Ammonium Bisulfite","Ammonium salt of bisulfurous acid, used as a preservative, antioxidant, and bleaching agent in food and beverages",3,FALSE
+"Magnesium Bisulfite","Magnesium salt of bisulfurous acid, used as a preservative, antioxidant, and bleaching agent in food and beverages",3,FALSE
+"Aluminum Bisulfite","Aluminum salt of bisulfurous acid, used as a preservative, antioxidant, and bleaching agent in food and beverages",3,FALSE
+"Iron Bisulfite","Iron salt of bisulfurous acid, used as a preservative, antioxidant, and bleaching agent in food and beverages",3,FALSE
+"Zinc Bisulfite","Zinc salt of bisulfurous acid, used as a preservative, antioxidant, and bleaching agent in food and beverages",3,FALSE
+"Copper Bisulfite","Copper salt of bisulfurous acid, used as a preservative, antioxidant, and bleaching agent in food and beverages",3,FALSE
+"Sodium Thiosulfate","Sodium salt of thiosulfuric acid, used in photography, as a dechlorinating agent, and in medical applications",2,FALSE
+"Potassium Thiosulfate","Potassium salt of thiosulfuric acid, used in photography, as a dechlorinating agent, and in medical applications",2,FALSE
+"Calcium Thiosulfate","Calcium salt of thiosulfuric acid, used in photography, as a dechlorinating agent, and in medical applications",2,FALSE
+"Ammonium Thiosulfate","Ammonium salt of thiosulfuric acid, used in photography, as a dechlorinating agent, and in medical applications",2,FALSE
+"Magnesium Thiosulfate","Magnesium salt of thiosulfuric acid, used in photography, as a dechlorinating agent, and in medical applications",2,FALSE
+"Aluminum Thiosulfate","Aluminum salt of thiosulfuric acid, used in photography, as a dechlorinating agent, and in medical applications",2,FALSE
+"Iron Thiosulfate","Iron salt of thiosulfuric acid, used in photography, as a dechlorinating agent, and in medical applications",2,FALSE
+"Zinc Thiosulfate","Zinc salt of thiosulfuric acid, used in photography, as a dechlorinating agent, and in medical applications",2,FALSE
+"Copper Thiosulfate","Copper salt of thiosulfuric acid, used in photography, as a dechlorinating agent, and in medical applications",2,FALSE
+"Sodium Carbonate","Sodium salt of carbonic acid, used in manufacturing, cleaning, and as a water softener",2,FALSE
+"Potassium Carbonate","Potassium salt of carbonic acid, used in manufacturing, as a buffering agent, and in the production of glass",2,FALSE
+"Calcium Carbonate","Calcium salt of carbonic acid, used in dietary supplements, antacids, and as a filler in pharmaceuticals",2,FALSE
+"Ammonium Carbonate","Ammonium salt of carbonic acid, used in baking as a leavening agent and in the manufacturing of ceramics",3,FALSE
+"Magnesium Carbonate","Magnesium salt of carbonic acid, used in antacids, dietary supplements, and as a drying agent in pharmaceuticals",2,FALSE
+"Aluminum Carbonate","Aluminum salt of carbonic acid, used in the manufacturing of ceramics and as a pigment",2,FALSE
+"Iron Carbonate","Iron salt of carbonic acid, used in the manufacturing of pigments, as a coloring agent, and in cosmetics",2,FALSE
+"Zinc Carbonate","Zinc salt of carbonic acid, used in the manufacturing of ceramics, as a pigment, and in pharmaceuticals",2,FALSE
+"Copper Carbonate","Copper salt of carbonic acid, used in the manufacturing of pigments, as a coloring agent, and in ceramics",2,FALSE
+"Sodium Bicarbonate","Sodium salt of bicarbonate ion, commonly known as baking soda, used in baking, cleaning, and as an antacid",2,FALSE
+"Potassium Bicarbonate","Potassium salt of bicarbonate ion, used as a buffering agent, in fire extinguishers, and in pharmaceuticals",2,FALSE
+"Calcium Bicarbonate","Calcium salt of bicarbonate ion, found naturally in mineral water and used in some antacids and baking powders",2,FALSE
+"Ammonium Bicarbonate","Ammonium salt of bicarbonate ion, used in baking as a leavening agent and in the manufacturing of some plastics",3,FALSE
+"Magnesium Bicarbonate","Magnesium salt of bicarbonate ion, used in some mineral waters and as a dietary supplement",2,FALSE
+"Aluminum Bicarbonate","Aluminum salt of bicarbonate ion, used in some baking powders and as a leavening agent",2,FALSE
+"Iron Bicarbonate","Iron salt of bicarbonate ion, used in some mineral supplements and as a source of iron in fortified foods",2,FALSE
+"Zinc Bicarbonate","Zinc salt of bicarbonate ion, used in some dietary supplements and as a source of zinc in fortified foods",2,FALSE
+"Copper Bicarbonate","Copper salt of bicarbonate ion, used in some dietary supplements and as a source of copper in fortified foods",2,FALSE
+"Sodium Citrate","Sodium salt of citric acid, used as a flavoring agent, acidity regulator, and emulsifier in food and beverages",2,FALSE
+"Potassium Citrate","Potassium salt of citric acid, used as a buffering agent, flavor enhancer, and dietary supplement",2,FALSE
+"Calcium Citrate","Calcium salt of citric acid, used as a dietary supplement, food additive, and in pharmaceuticals",2,FALSE
+"Ammonium Citrate","Ammonium salt of citric acid, used as a chelating agent, buffer, and in some food products",2,FALSE
+"Magnesium Citrate","Magnesium salt of citric acid, used as a dietary supplement and in some laxatives",2,FALSE
+"Aluminum Citrate","Aluminum salt of citric acid, used in some pharmaceutical formulations and as a chelating agent",2,FALSE
+"Iron Citrate","Iron salt of citric acid, used as a dietary supplement, food additive, and in some pharmaceuticals",2,FALSE
+"Zinc Citrate","Zinc salt of citric acid, used as a dietary supplement and in some oral care products",2,FALSE
+"Copper Citrate","Copper salt of citric acid, used as a dietary supplement and in some nutritional formulations",2,FALSE
+"Sodium Hydroxide","Sodium salt of hydroxide ion, commonly known as caustic soda, used in manufacturing, cleaning, and as a pH regulator",3,FALSE
+"Potassium Hydroxide","Potassium salt of hydroxide ion, used in manufacturing, as a pH regulator, and in some industrial processes",3,FALSE
+"Calcium Hydroxide","Calcium salt of hydroxide ion, commonly known as slaked lime, used in manufacturing, construction, and as a pH regulator",2,FALSE
+"Ammonium Hydroxide","Ammonium salt of hydroxide ion, used in cleaning products, as a pH regulator, and in some food processing",3,FALSE
+"Magnesium Hydroxide","Magnesium salt of hydroxide ion, used as an antacid, laxative, and in some cosmetics",2,FALSE
+"Aluminum Hydroxide","Aluminum salt of hydroxide ion, used as an antacid, phosphate binder, and in some vaccines",2,FALSE
+"Iron Hydroxide","Iron salt of hydroxide ion, used in water treatment, as a pigment, and in some medications",2,FALSE
+"Zinc Hydroxide","Zinc salt of hydroxide ion, used in skin care products, as a pigment, and in some pharmaceuticals",2,FALSE
+"Copper Hydroxide","Copper salt of hydroxide ion, used in agriculture as a fungicide and in some industrial processes",2,FALSE
+"Sodium Oxide","Sodium salt of oxide ion, used in glass manufacturing, ceramics, and as a desiccant",3,FALSE
+"Potassium Oxide","Potassium salt of oxide ion, used in glass manufacturing, ceramics, and as a fertilizer",3,FALSE
+"Calcium Oxide","Calcium salt of oxide ion, commonly known as lime, used in construction, agriculture, and as a pH regulator",3,FALSE
+"Ammonium Oxide","Ammonium salt of oxide ion, not commonly used due to its instability and reactivity",3,FALSE
+"Magnesium Oxide","Magnesium salt of oxide ion, used in medicine as an antacid and laxative, and in the production of magnesium metal",2,FALSE
+"Aluminum Oxide","Compound of aluminum and oxygen, used as an abrasive, refractory material, and in the production of aluminum metal",2,FALSE
+"Iron Oxide","Compound of iron and oxygen, used as a pigment, in magnetic storage media, and in some industrial applications",2,FALSE
+"Zinc Oxide","Compound of zinc and oxygen, used in sunscreens, ointments, paints, and as a dietary supplement",2,FALSE
+"Copper Oxide","Compound of copper and oxygen, used in ceramics, as a pigment, and in some electronic applications",2,FALSE
+"Sodium Sulfide","Sodium salt of sulfide ion, used in the pulp and paper industry, as a reducing agent, and in the production of rubber",3,FALSE
+"Potassium Sulfide","Potassium salt of sulfide ion, used in the production of sulfur dyes, as a depilatory, and in organic synthesis",3,FALSE
+"Calcium Sulfide","Calcium salt of sulfide ion, used in the leather industry, as a reducing agent, and in the production of hydrogen sulfide",3,FALSE
+"Ammonium Sulfide","Ammonium salt of sulfide ion, used in the textile industry, as a reducing agent, and in analytical chemistry",3,FALSE
+"Magnesium Sulfide","Magnesium salt of sulfide ion, used in the production of magnesium metal, as a pigment, and in fireworks",3,FALSE
+"Aluminum Sulfide","Aluminum salt of sulfide ion, used in the production of aluminum metal and as a catalyst in organic synthesis",3,FALSE
+"Iron Sulfide","Compound of iron and sulfur, commonly known as pyrite or fool's gold, used in jewelry, as a mineral specimen, and in sulfuric acid production",3,FALSE
+"Zinc Sulfide","Compound of zinc and sulfur, used in luminescent materials, as a pigment, and in the production of semiconductor devices",3,FALSE
+"Copper Sulfide","Compound of copper and sulfur, used in the production of copper metal, as a pigment, and in some electronic applications",3,FALSE
+"Sodium Nitride","Sodium salt of nitride ion, not commonly used due to its high reactivity and instability",3,FALSE
+"Potassium Nitride","Potassium salt of nitride ion, not commonly used due to its high reactivity and instability",3,FALSE
+"Calcium Nitride","Calcium salt of nitride ion, used as a desiccant, in the production of ammonia, and as a reducing agent",3,FALSE
+"Ammonium Nitride","Ammonium salt of nitride ion, not commonly used due to its high reactivity and instability",3,FALSE
+"Magnesium Nitride","Magnesium salt of nitride ion, used as a source of nitrogen in fertilizer production and as a reducing agent",3,FALSE
+"Aluminum Nitride","Compound of aluminum and nitrogen, used in the production of ceramics, as a substrate for electronic devices, and in thermal management applications",3,FALSE
+"Iron Nitride","Compound of iron and nitrogen, used in the production of steel, as a catalyst, and in some electronic applications",3,FALSE
+"Zinc Nitride","Compound of zinc and nitrogen, not commonly used due to its high reactivity and instability",3,FALSE
+"Copper Nitride","Compound of copper and nitrogen, not commonly used due to its high reactivity and instability",3,FALSE
+"Sodium Chloride","Chemical compound consisting of sodium and chlorine ions, commonly known as table salt, used as a seasoning and preservative in food, and in various industrial applications",1,FALSE
+"Tomato","Edible fruit commonly used in cooking and salads, rich in vitamins, minerals, and antioxidants",1,FALSE
+"Potato","Starchy tuberous crop commonly used in cooking, rich in carbohydrates and vitamins",1,FALSE
+"Onion","Edible bulb vegetable widely used in cooking for flavoring, rich in vitamins and antioxidants",1,FALSE
+"Garlic","Edible bulb vegetable known for its strong flavor and health benefits, including antioxidant and antimicrobial properties",1,FALSE
+"Carrot","Edible root vegetable known for its bright orange color and high beta-carotene content, rich in vitamins and antioxidants",1,FALSE
+"Bell Pepper","Edible fruit, often used as a vegetable in cooking, available in various colors and rich in vitamins and antioxidants",1,FALSE
+"Spinach","Leafy green vegetable known for its nutritional value, including high levels of vitamins, minerals, and antioxidants",1,FALSE
+"Broccoli","Edible green vegetable known for its high nutritional content, including vitamins, minerals, and antioxidants",1,FALSE
+"Cauliflower","Edible vegetable belonging to the cruciferous family, known for its white florets and nutritional benefits",1,FALSE
+"Cabbage","Leafy green or purple vegetable, often used in cooking and salads, rich in vitamins and antioxidants",1,FALSE
+"Lettuce","Leafy vegetable commonly used in salads and sandwiches, available in various types such as iceberg, romaine, and leaf lettuce",1,FALSE
+"Cucumber","Edible fruit commonly used as a vegetable in salads and dishes, known for its high water content",1,FALSE
+"Zucchini","Edible fruit belonging to the squash family, often used in cooking and baking, rich in vitamins and minerals",1,FALSE
+"Eggplant","Edible fruit known for its purple color and often used in cooking, rich in vitamins, minerals, and antioxidants",1,FALSE
+"Mushroom","Edible fungus with various culinary uses, known for its umami flavor and nutritional benefits",1,FALSE
+"Asparagus","Edible shoot vegetable known for its delicate flavor and high nutritional content, including vitamins and minerals",1,FALSE
+"Green Bean","Edible pod vegetable, also known as string beans or snap beans, rich in vitamins and minerals",1,FALSE
+"Pea","Edible seed vegetable, often used in cooking and salads, rich in protein, fiber, vitamins, and minerals",1,FALSE
+"Brussels Sprout","Edible green vegetable belonging to the cabbage family, known for its small size and nutritional benefits",1,FALSE
+"Radish","Edible root vegetable known for its crisp texture and peppery flavor, often used in salads and dishes",1,FALSE
+"Celery","Edible stalk vegetable known for its crunchy texture and mild flavor, often used in salads, soups, and snacks",1,FALSE
+"Kale","Leafy green vegetable known for its nutritional value, including high levels of vitamins, minerals, and antioxidants",1,FALSE
+"Swiss Chard","Leafy green vegetable known for its colorful stems and nutritional benefits, including vitamins and minerals",1,FALSE
+"Bok Choy","Leafy green vegetable commonly used in Asian cuisine, known for its mild flavor and nutritional value",1,FALSE
+"Leek","Edible vegetable with a mild onion-like flavor, often used in soups, stews, and savory dishes",1,FALSE
+"Artichoke","Edible flower bud vegetable known for its unique flavor and texture, often used in cooking and salads",1,FALSE
+"Beetroot","Edible root vegetable known for its deep red color and earthy flavor, often used in cooking and salads",1,FALSE
+"Sweet Potato","Starchy root vegetable known for its sweet flavor and nutritional benefits, rich in vitamins and minerals",1,FALSE
+"Pumpkin","Edible fruit commonly used in cooking and baking, known for its sweet flavor and nutritional value",1,FALSE
+"Butternut Squash","Edible fruit with a sweet, nutty flavor, often used in soups, stews, and side dishes",1,FALSE
+"Acorn Squash","Edible fruit with a mild, sweet flavor, often used in cooking and baking",1,FALSE
+"Spaghetti Squash","Edible fruit with a stringy texture, often used as a low-carb alternative to pasta",1,FALSE
+"Turnip","Edible root vegetable with a peppery flavor, often used in cooking and salads",1,FALSE
+"Rutabaga","Root vegetable similar to a turnip but larger and sweeter, commonly used in cooking",1,FALSE
+"Parsnip","Root vegetable with a sweet, nutty flavor, often used in soups, stews, and roasted dishes",1,FALSE
+"Yam","Starchy tuberous root vegetable with a sweet flavor, commonly used in cooking and baking",1,FALSE
+"Radicchio","Leafy vegetable with a bitter flavor, often used in salads and as a garnish",1,FALSE
+"Endive","Leafy vegetable with a slightly bitter flavor, commonly used in salads and appetizers",1,FALSE
+"Escarole","Leafy green vegetable with a slightly bitter flavor, commonly used in soups and salads",1,FALSE
+"Arugula","Leafy green vegetable with a peppery flavor, commonly used in salads and as a pizza topping",1,FALSE
+"Watercress","Aquatic plant with a peppery flavor, commonly used in salads, sandwiches, and as a garnish",1,FALSE
+"Fennel","Edible bulb vegetable with a mild, licorice-like flavor, commonly used in cooking and salads",1,FALSE
+"Kohlrabi","Edible bulb vegetable with a mild, sweet flavor, often used in salads and slaws",1,FALSE
+"Collard Greens","Leafy green vegetable with a mild, cabbage-like flavor, commonly used in Southern cuisine",1,FALSE
+"Mustard Greens","Leafy green vegetable with a spicy, mustard-like flavor, commonly used in cooking and salads",1,FALSE
+"Turnip Greens","Leafy greens of the turnip plant, often cooked or used raw in salads",1,FALSE
+"Dandelion Greens","Leafy greens of the dandelion plant, known for their bitter flavor and nutritional benefits",1,FALSE
+"Purslane","Edible succulent plant with a slightly tangy flavor, commonly used in salads and stir-fries",1,FALSE
+"Bamboo Shoots","Edible shoots of the bamboo plant, commonly used in Asian cuisine",1,FALSE
+"Bean Sprouts","Edible sprouts of various bean seeds, commonly used in salads, stir-fries, and sandwiches",1,FALSE
+"Alfalfa Sprouts","Edible sprouts of alfalfa seeds, commonly used in salads, sandwiches, and wraps",1,FALSE
+"Lentil Sprouts","Edible sprouts of lentil seeds, rich in protein and commonly used in salads and sandwiches",1,FALSE
+"Pea Sprouts","Edible sprouts of pea seeds, commonly used in salads, stir-fries, and sandwiches",1,FALSE
+"Radish Sprouts","Edible sprouts of radish seeds, known for their peppery flavor and crunchy texture",1,FALSE
+"Sunflower Sprouts","Edible sprouts of sunflower seeds, commonly used in salads, sandwiches, and wraps",1,FALSE
+"Clover Sprouts","Edible sprouts of clover seeds, commonly used in salads, sandwiches, and wraps",1,FALSE
+"Soybean Sprouts","Edible sprouts of soybean seeds, commonly used in Asian cuisine and vegetarian dishes",1,FALSE
+"Onion Sprouts","Edible sprouts of onion seeds, known for their mild onion flavor and crisp texture",1,FALSE
+"Garlic Sprouts","Edible sprouts of garlic cloves, known for their mild garlic flavor and nutritional benefits",1,FALSE
+"Shallot Sprouts","Edible sprouts of shallot bulbs, similar in flavor to onions and commonly used in salads and sandwiches",1,FALSE
